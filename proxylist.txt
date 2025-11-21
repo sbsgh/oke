@@ -96,6 +96,7 @@
 2.59.38.185,8443,NL,DataWeb Global Group BV
 2.59.38.46,443,NL,DataWeb Global Group BV
 3.0.147.155,50000,SG,Amazon Data Services Singapore
+3.0.50.69,443,SG,Amazon Data Services Singapore
 3.101.133.120,80,US,Amazoncom Inc
 3.112.21.102,443,JP,Amazon Data Services Japan
 3.120.201.181,443,DE,Amazon Data Services Ireland Ltd
@@ -108,10 +109,10 @@
 3.29.240.49,443,AE,Amazon Data Services UAE
 3.29.76.68,443,AE,Amazon Data Services UAE
 3.66.115.225,443,DE,A100 ROW GmbH
-3.67.232.136,443,DE,A100 ROW GmbH
+3.67.232.136,443,DE,Amazon Data Services Ireland Ltd
 3.67.25.193,443,DE,A100 ROW GmbH
-3.68.31.54,443,DE,A100 ROW GmbH
-3.68.62.122,443,DE,A100 ROW GmbH
+3.68.31.54,443,DE,Amazon Data Services Ireland Ltd
+3.68.62.122,443,DE,Amazon Data Services Ireland Ltd
 3.69.0.8,443,DE,Amazon Data Services Ireland Ltd
 3.73.6.186,2053,DE,A100 ROW GmbH
 3.76.206.85,443,DE,A100 ROW GmbH
@@ -275,8 +276,8 @@
 5.180.183.107,2053,NL,OMC COMPUTERS  COMMUNICATIONS LTD
 5.180.183.107,8443,NL,OMC COMPUTERS  COMMUNICATIONS LTD
 5.180.21.2,2053,NL,FAST GEO HOSTING SRL
-5.180.21.2,8443,NL,FAST GEO HOSTING SRL
 5.180.24.187,8443,US,WorkTitans BV
+5.180.24.230,8443,US,WorkTitans BV
 5.180.30.50,12000,GB,WorkTitans BV
 5.180.40.42,443,NL,FAST GEO HOSTING SRL
 5.180.45.30,443,TR,WorkTitans BV
@@ -324,6 +325,7 @@
 5.182.87.234,8443,DE,Aeza International LTD
 5.182.87.56,2053,DE,Aeza International LTD
 5.182.87.56,8443,DE,Aeza International LTD
+5.182.87.61,443,DE,Aeza International LTD
 5.187.0.176,443,DE,wwwfornexcom Fornex Hosting SL
 5.187.0.232,2053,DE,wwwfornexcom Fornex Hosting SL
 5.187.0.232,8443,DE,wwwfornexcom Fornex Hosting SL
@@ -335,7 +337,7 @@
 5.187.3.181,8443,DE,wwwfornexcom Fornex Hosting SL
 5.187.4.103,2053,DE,wwwfornexcom Fornex Hosting SL
 5.187.4.103,8443,DE,wwwfornexcom Fornex Hosting SL
-5.187.4.45,443,DE,wwwfornexcom Fornex Hosting SL
+5.187.4.45,443,DE,Fornex Hosting SL
 5.187.5.27,443,DE,wwwfornexcom Fornex Hosting SL
 5.187.5.86,2053,DE,wwwfornexcom Fornex Hosting SL
 5.187.5.86,8443,DE,wwwfornexcom Fornex Hosting SL
@@ -411,6 +413,7 @@
 5.252.22.169,443,DE,WorkTitans BV
 5.252.22.236,443,DE,WorkTitans BV
 5.252.22.46,443,DE,WorkTitans BV
+5.252.226.232,443,DE,netcup GmbH
 5.252.23.190,81,SK,WorkTitans BV
 5.252.23.245,443,SK,WorkTitans BV
 5.252.25.44,2053,DE,GCore Labs Customer assignment
@@ -433,7 +436,6 @@
 5.253.63.106,2053,NL,Snowd Security OU
 5.253.63.136,443,NL,Snowd Security OU
 5.255.102.201,8443,NL,The Infrastructure Group BV
-5.255.105.253,443,NL,The Infrastructure Group BV
 5.255.109.133,443,NL,The Infrastructure Group BV
 5.255.112.103,443,NL,The Infrastructure Group BV
 5.255.116.61,2053,NL,The Infrastructure Group BV
@@ -566,6 +568,7 @@
 5.45.70.75,8443,NL,IROKO Networks Corporation
 5.45.71.98,443,NL,IROKO Networks Corporation
 5.45.86.186,443,NL,IROKO Networks Corporation
+5.45.86.87,443,NL,IROKO Networks Corporation
 5.45.92.100,443,NL,IROKO Networks Corporation
 5.45.92.247,57023,NL,IROKO Networks Corporation
 5.45.93.63,8443,NL,IROKO Networks Corporation
@@ -643,7 +646,6 @@
 5.78.50.75,443,US,Hetzner Online GmbH
 5.78.51.123,8443,US,Hetzner Online GmbH
 5.78.58.218,443,US,Hetzner Online GmbH
-5.78.63.107,443,US,Hetzner Online GmbH
 5.78.77.41,2053,US,Hetzner Online GmbH
 5.78.77.41,8443,US,Hetzner Online GmbH
 5.78.84.126,443,US,Hetzner Online GmbH
@@ -690,6 +692,7 @@
 5.9.210.78,443,DE,HOS47115
 8.208.19.143,443,GB,Aliyun Computing CoLTD
 8.209.220.50,21273,JP,Shiodome Sumitomo Blog 192 TOKYO
+8.209.240.99,20581,JP,Shiodome Sumitomo Blog 192 TOKYO
 8.210.128.85,443,HK,Aliyun Computing CoLTD
 8.210.29.68,443,HK,Aliyun Computing CoLTD
 8.210.92.96,33335,HK,Aliyun Computing CoLTD
@@ -703,6 +706,7 @@
 8.218.245.116,42805,HK,Alibaba Cloud Singapore Private Limited
 8.218.245.116,49701,HK,Alibaba Cloud Singapore Private Limited
 8.218.36.133,9010,HK,Alibaba Cloud Singapore Private Limited
+8.219.1.169,443,SG,Alibaba Cloud Singapore Private Limited
 8.219.126.137,491,SG,Alibaba Cloud Singapore Private Limited
 8.219.143.30,443,SG,Alibaba Cloud Singapore Private Limited
 8.219.243.83,18377,SG,Alibaba Cloud Singapore Private Limited
@@ -718,6 +722,7 @@
 13.212.19.68,56138,SG,Amazon Data Services Singapore
 13.212.213.77,8443,SG,Amazon Data Services Singapore
 13.230.34.30,443,JP,Amazon Data Services Japan
+13.250.131.37,443,SG,Amazon Data Services Singapore
 13.250.31.132,443,SG,Amazon Data Services Singapore
 13.40.3.208,2096,GB,Amazon Data Services Ireland Ltd
 13.48.175.183,2053,SE,Amazon Data Services Sweden
@@ -731,7 +736,9 @@
 14.21.7.146,12388,CN,CHINANET Guangdong province network
 14.21.7.146,18085,CN,CHINANET Guangdong province network
 14.21.7.146,18888,CN,CHINANET Guangdong province network
-14.35.136.248,30012,KR,Korea Telecom
+14.29.129.224,10011,CN,CHINANET Guangdong province network
+14.29.164.34,10011,CN,CHINANET Guangdong province network
+14.29.240.90,10011,CN,CHINANET Guangdong province network
 15.184.152.100,2087,BH,Amazon Data Services Bahrain
 15.204.10.80,24906,US,OVH US LLC
 15.204.10.80,36683,US,OVH US LLC
@@ -764,7 +771,7 @@
 18.153.254.136,2053,DE,A100 ROW GmbH
 18.153.254.136,8443,DE,A100 ROW GmbH
 18.156.209.101,443,DE,Amazon Data Services Ireland Ltd
-18.159.105.97,443,DE,Amazon Data Services Ireland Ltd
+18.159.105.97,443,DE,A100 ROW GmbH
 18.162.156.23,12355,HK,Amazon Data Services Hong Kong
 18.167.10.179,2053,HK,Amazon Data Services Hong Kong
 18.170.77.148,443,GB,Amazon Data Services UK
@@ -777,8 +784,8 @@
 18.184.55.249,443,DE,A100 ROW GmbH
 18.185.254.189,443,DE,Amazon Data Services Ireland Ltd
 18.192.93.64,443,DE,A100 ROW GmbH
-18.193.131.26,443,DE,A100 ROW GmbH
-18.196.70.197,443,DE,A100 ROW GmbH
+18.193.131.26,443,DE,Amazon Data Services Ireland Ltd
+18.196.70.197,443,DE,Amazon Data Services Ireland Ltd
 18.197.218.69,443,DE,A100 ROW GmbH
 18.198.227.161,443,DE,A100 ROW GmbH
 18.205.113.91,443,JP,TOKAI Communications Corporation
@@ -795,20 +802,18 @@
 20.167.42.198,2053,AU,Microsoft Corporation
 20.167.42.198,8443,AU,Microsoft Corporation
 20.174.15.226,443,AE,Microsoft Corporation
-20.187.182.254,42024,HK,Microsoft Corporation
 20.205.177.152,443,SG,Microsoft Corporation
 20.207.237.5,443,IN,Microsoft Corporation
 20.221.72.207,443,US,Microsoft Corporation
 20.222.160.248,31678,JP,Microsoft Corporation
-20.228.64.195,443,US,Microsoft Corporation
 20.235.105.146,443,IN,Microsoft Corporation
 20.235.220.189,443,IN,Microsoft Corporation
 20.246.127.166,443,US,Microsoft Corporation
 20.247.137.183,443,SG,Microsoft Corporation
+20.255.49.160,443,HK,Microsoft Corporation
 20.36.131.211,443,US,Microsoft Corporation
 20.62.172.88,443,US,Microsoft Corporation
 20.79.55.69,443,DE,Microsoft Corporation
-20.83.156.0,443,US,Microsoft Corporation
 20.83.160.84,443,US,Microsoft Corporation
 20.84.117.28,443,US,Microsoft Corporation
 23.105.192.140,443,US,IT7 Networks Inc
@@ -817,7 +822,6 @@
 23.105.214.132,8443,US,IT7 Networks Inc
 23.105.220.235,9306,US,IT7 Networks Inc
 23.106.154.209,9418,US,IT7 Networks Inc
-23.106.155.134,443,US,IT7 Networks Inc
 23.106.155.178,802,US,IT7 Networks Inc
 23.108.217.103,443,NL,Serverscom BV
 23.108.217.62,443,NL,Serverscom BV
@@ -855,13 +859,11 @@
 23.88.88.102,443,DE,HOS573331
 23.88.88.105,443,DE,HOS573331
 23.88.97.94,8443,DE,Hetzner Online GmbH
-23.94.103.194,443,US,RackNerd LLC
 23.94.105.240,443,NL,RackNerd LLC
 23.94.120.175,8443,NL,RackNerd LLC
 23.94.122.243,29500,US,HostPapa
 23.94.123.164,443,US,Hurricane Electric LLC
 23.94.13.28,443,US,Cloudflare London LLC
-23.94.178.69,443,US,ColoCrossing
 23.94.211.148,443,US,RackNerd LLC
 23.94.213.132,27149,US,HostPapa
 23.94.216.231,2053,NL,RackNerd LLC
@@ -869,11 +871,13 @@
 23.94.220.13,8443,NL,RackNerd LLC
 23.94.233.164,443,US,RackNerd LLC
 23.94.233.85,443,US,RackNerd LLC
+23.94.25.53,443,US,RackNerd LLC
+23.94.255.195,443,US,RackNerd LLC
 23.94.43.51,443,US,RackNerd LLC
-23.94.49.196,443,US,RackNerd LLC
 23.94.5.177,443,US,RackNerd LLC
 23.94.5.177,4433,US,RackNerd LLC
 23.94.56.111,20338,US,RackNerd LLC
+23.94.57.31,443,US,RackNerd LLC
 23.94.57.46,443,US,RackNerd LLC
 23.94.67.152,443,IE,HostPapa
 23.94.94.192,42539,US,RackNerd LLC
@@ -893,12 +897,12 @@
 23.95.240.37,8443,US,RackNerd LLC
 23.95.247.225,2087,US,RackNerd LLC
 23.95.252.186,8443,US,HostPapa
-23.95.254.219,16043,US,Cloudflare London LLC
 23.95.48.107,21278,US,RackNerd LLC
 23.95.48.132,2083,US,RackNerd LLC
 23.95.56.195,443,US,RackNerd LLC
 23.95.61.179,15160,US,RackNerd LLC
 23.95.85.109,443,US,RackNerd LLC
+23.95.9.213,12243,US,RackNerd LLC
 24.144.76.237,443,NL,DigitalOcean LLC
 24.144.77.193,2053,NL,Digital Ocean Inc
 24.144.79.24,2087,NL,DigitalOcean LLC
@@ -981,16 +985,16 @@
 31.172.69.16,443,US,wwwfornexcom Fornex Hosting SL
 31.172.70.183,443,DE,Fornex Hosting SL
 31.172.70.222,443,DE,wwwfornexcom Fornex Hosting SL
-31.172.71.32,443,DE,wwwfornexcom Fornex Hosting SL
+31.172.71.32,443,DE,Fornex Hosting SL
 31.172.71.51,444,DE,wwwfornexcom Fornex Hosting SL
 31.172.71.72,443,DE,wwwfornexcom Fornex Hosting SL
 31.172.72.21,2053,DE,wwwfornexcom Fornex Hosting SL
 31.172.72.21,8443,DE,wwwfornexcom Fornex Hosting SL
 31.172.72.218,2053,DE,wwwfornexcom Fornex Hosting SL
-31.172.72.25,443,DE,wwwfornexcom Fornex Hosting SL
-31.172.72.83,443,DE,Fornex Hosting SL
+31.172.72.25,443,DE,Fornex Hosting SL
+31.172.72.83,443,DE,wwwfornexcom Fornex Hosting SL
 31.172.73.104,2053,DE,wwwfornexcom Fornex Hosting SL
-31.172.73.153,443,DE,wwwfornexcom Fornex Hosting SL
+31.172.73.153,443,DE,Fornex Hosting SL
 31.172.73.59,443,DE,wwwfornexcom Fornex Hosting SL
 31.172.74.116,443,NL,wwwfornexcom Fornex Hosting SL
 31.172.74.116,8443,NL,wwwfornexcom Fornex Hosting SL
@@ -1167,6 +1171,7 @@
 31.58.171.230,2053,FI,CGI GLOBAL LIMITED
 31.58.171.230,8443,FI,CGI GLOBAL LIMITED
 31.58.58.103,443,DE,FREAKHOSTING
+31.58.58.41,443,DE,FREAKHOSTING
 31.58.85.103,443,DE,SEBEK sp z oo
 31.59.114.136,7443,NL,CGI GLOBAL LIMITED
 31.59.114.237,443,NL,CGI GLOBAL LIMITED
@@ -1206,8 +1211,6 @@
 31.59.170.134,8443,NL,GOLD IP LLCFZ
 31.59.170.170,2053,NL,GOLD IP LLCFZ
 31.59.170.170,8443,NL,GOLD IP LLCFZ
-31.59.170.180,2053,NL,GOLD IP LLCFZ
-31.59.170.180,8443,NL,GOLD IP LLCFZ
 31.59.170.181,2053,NL,GOLD IP LLCFZ
 31.59.170.181,8443,NL,GOLD IP LLCFZ
 31.59.170.192,2053,NL,GOLD IP LLCFZ
@@ -1285,9 +1288,8 @@
 35.185.54.229,27207,US,Google LLC
 35.185.54.229,27251,US,Google LLC
 35.185.54.229,27271,US,Google LLC
-35.189.137.210,443,JP,Google LLC
 35.197.23.75,443,US,Google LLC
-35.208.146.222,443,US,Google LLC
+35.209.104.104,8090,US,Google LLC
 35.210.99.51,443,BE,Google LLC
 35.212.133.89,443,US,Google LLC
 35.212.160.116,443,US,Google LLC
@@ -1305,8 +1307,6 @@
 35.83.185.225,443,US,Amazoncom Inc
 35.95.237.8,443,US,Amazoncom Inc
 36.133.126.13,443,CN,China Mobile Communications Corporation
-36.50.90.241,35951,HK,IoT Innovation Technologies Company Limited
-36.50.90.241,47790,HK,IoT Innovation Technologies Company Limited
 36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
 37.1.193.82,2053,DE,IROKO Networks Corporation
 37.1.193.82,8443,DE,IROKO Networks Corporation
@@ -1368,7 +1368,6 @@
 37.120.186.33,8443,DE,netcup GmbH
 37.120.187.246,3001,DE,netcup GmbH
 37.123.192.147,443,US,Kirino LLC
-37.123.192.33,443,US,Kirino LLC
 37.123.193.154,666,US,Kirino LLC
 37.128.204.140,443,LV,SIA VEESP
 37.128.204.228,443,LV,SIA VEESP
@@ -1602,9 +1601,11 @@
 38.180.216.120,443,EE,3NT SOLUTIONS LLP
 38.180.216.128,2053,EE,3NT SOLUTIONS LLP
 38.180.216.128,8443,EE,3NT SOLUTIONS LLP
+38.180.218.12,443,DE,3NT SOLUTIONS LLP
 38.180.219.131,443,DE,3NT SOLUTIONS LLP
 38.180.219.36,443,DE,3NT SOLUTIONS LLP
 38.180.219.42,443,DE,3NT SOLUTIONS LLP
+38.180.22.20,1001,IT,3NT SOLUTIONS LLP
 38.180.225.181,443,HU,3NT SOLUTIONS LLP
 38.180.225.185,443,HU,3NT SOLUTIONS LLP
 38.180.227.149,443,PL,3NT SOLUTIONS LLP
@@ -1682,7 +1683,6 @@
 38.180.99.103,443,NL,3NT SOLUTIONS LLP
 38.180.99.166,2053,NL,3NT SOLUTIONS LLP
 38.180.99.166,8443,NL,3NT SOLUTIONS LLP
-38.180.99.178,2053,NL,3NT SOLUTIONS LLP
 38.180.99.178,8443,NL,3NT SOLUTIONS LLP
 38.180.99.179,2053,NL,3NT SOLUTIONS LLP
 38.180.99.179,8443,NL,3NT SOLUTIONS LLP
@@ -1745,16 +1745,17 @@
 38.55.198.166,55803,HK,PEG TECH INC
 38.59.241.157,443,US,MULTACOM CORPORATION
 38.60.162.156,443,US,Kaopu Cloud HK Limited
-38.60.196.214,443,GB,Kaopu Cloud HK Limited
+38.60.193.247,13300,MY,Kaopu Cloud HK Limited
 38.60.248.8,443,GB,Kaopu Cloud HK Limited
 38.60.255.183,443,TR,Kaopu Cloud HK Limited
 38.60.91.130,443,US,KURUN CLOUD INC
 38.60.91.95,443,US,KURUN CLOUD INC
-38.95.232.247,443,US,Cogent Communications LLC
 39.108.184.201,443,SG,Alibaba Cloud LLC
 39.118.46.193,12131,KR,SK Broadband Co Ltd
+39.123.164.251,30012,KR,SK Broadband Co Ltd
 39.123.97.116,50001,KR,SK Broadband Co Ltd
 39.126.124.220,50001,KR,SK Broadband Co Ltd
+39.98.224.123,443,CN,Aliyun Computing Co LTD
 40.113.60.248,2053,IE,Microsoft Corporation
 40.113.60.248,8443,IE,Microsoft Corporation
 40.120.108.47,2083,AE,Microsoft Corporation
@@ -1871,13 +1872,14 @@
 43.154.124.136,26666,HK,6 COLLYER QUAY
 43.154.150.180,53104,HK,6 COLLYER QUAY
 43.155.186.100,446,KR,6 COLLYER QUAY
+43.155.217.186,443,KR,6 COLLYER QUAY
+43.155.246.199,443,KR,6 COLLYER QUAY
+43.155.246.237,443,KR,6 COLLYER QUAY
+43.156.116.194,443,SG,6 COLLYER QUAY
 43.156.181.203,443,SG,16 COLLYER QUAY
 43.156.25.177,28443,SG,6 COLLYER QUAY
-43.156.67.197,28443,SG,6 COLLYER QUAY
 43.163.214.190,58352,JP,6 COLLYER QUAY
 43.163.6.142,30316,SG,16 COLLYER QUAY  1829 INCOME AT RAFFLES
-43.165.133.183,17628,JP,16 COLLYER QUAY  1829 INCOME AT RAFFLES
-43.165.133.183,30058,JP,16 COLLYER QUAY  1829 INCOME AT RAFFLES
 43.165.183.43,443,JP,16 COLLYER QUAY  1829 INCOME AT RAFFLES
 43.165.190.101,25891,JP,16 COLLYER QUAY  1829 INCOME AT RAFFLES
 43.165.191.25,16837,JP,16 COLLYER QUAY  1829 INCOME AT RAFFLES
@@ -2000,8 +2002,9 @@
 45.126.244.10,443,US,Aryaka Networks Inc co Equinix SV4 255 Caspian Drive Sunnyvale CA 94089 United States
 45.128.232.128,443,NL,Individual Entrepreneur Anton Levin
 45.128.52.115,443,CH,WorkTitans BV
-45.128.78.130,443,DE,INTERKVM HOST SRL
-45.128.99.148,443,DE,365partners INC
+45.128.78.132,443,DE,INTERKVM HOST SRL
+45.128.78.198,9443,DE,RapidSeedbox Ltd
+45.128.99.148,443,DE,US365HOSTING
 45.128.99.193,443,DE,365partners INC
 45.128.99.204,443,DE,365partners INC
 45.128.99.24,443,DE,365partners INC
@@ -2014,6 +2017,7 @@
 45.129.185.60,443,AM,GLOBAL CONNECTIVITY SOLUTIONS LLP
 45.129.185.79,443,AM,GLOBAL CONNECTIVITY SOLUTIONS LLP
 45.129.185.90,443,AM,GLOBAL CONNECTIVITY SOLUTIONS LLP
+45.129.185.90,8443,AM,GLOBAL CONNECTIVITY SOLUTIONS LLP
 45.129.185.99,443,AM,GLOBAL CONNECTIVITY SOLUTIONS LLP
 45.129.186.120,443,BY,AdminVPS OOO
 45.129.186.233,443,BY,AdminVPS OOO
@@ -2030,7 +2034,6 @@
 45.129.199.58,443,EE,BlueVPS OU
 45.129.199.80,8443,EE,BlueVPS OU
 45.129.2.188,443,RU,LLC Baxet
-45.129.2.201,443,RU,LLC Baxet
 45.129.242.128,443,DE,SERVA ONE LTD
 45.129.242.187,443,DE,SERVA ONE LTD
 45.129.242.6,443,DE,SERVA ONE LTD
@@ -2269,7 +2272,6 @@
 45.144.51.180,8443,PL,Newserverlife LLC
 45.144.51.250,2053,PL,Newserverlife LLC
 45.144.51.250,8443,PL,Newserverlife LLC
-45.144.51.62,8443,PL,Newserverlife LLC
 45.144.51.63,8443,PL,Newserverlife LLC
 45.144.51.79,8443,PL,Newserverlife LLC
 45.144.51.81,443,PL,Newserverlife LLC
@@ -2284,6 +2286,7 @@
 45.144.54.95,443,DE,Aeza International LTD
 45.145.0.58,443,MD,WEBHOST LLC
 45.145.41.192,443,DE,dataforest GmbH
+45.145.41.4,443,DE,dataforest GmbH
 45.145.42.211,2016,DE,dataforest GmbH
 45.145.42.229,4002,DE,dataforest GmbH
 45.145.43.190,443,DE,dataforest GmbH
@@ -2303,7 +2306,7 @@
 45.147.248.115,443,DE,Kamatera Inc
 45.148.233.10,443,US,FINE GROUP SERVERS SOLUTIONS LLC
 45.148.30.126,443,DK,Webdockio ApS
-45.149.186.112,8080,HK,AKILE LTD
+45.149.186.112,8080,HK,HYTRON NETWORK HK
 45.149.234.112,443,NL,Individual Entrepreneur Anton Levin
 45.149.234.185,443,NL,Individual Entrepreneur Anton Levin
 45.149.234.213,443,NL,Individual Entrepreneur Anton Levin
@@ -2328,7 +2331,7 @@
 45.149.63.36,2053,PL,NET 45 149 63 0 24
 45.149.63.46,2053,PL,NET 45 149 63 0 24
 45.149.63.67,2053,PL,NET 45 149 63 0 24
-45.15.124.7,12217,US,EGIHosting
+45.15.124.7,12217,US,Sriyaan technology
 45.15.127.213,443,FI,WorkTitans BV
 45.15.160.120,443,RS,WorkTitans BV
 45.15.160.231,443,RS,WorkTitans BV
@@ -2349,8 +2352,9 @@
 45.150.32.47,443,RU,Aeza International LTD
 45.150.32.87,443,DE,Aeza International LTD
 45.150.33.1,443,NL,Aeza International LTD
-45.150.33.12,443,RU,Aeza International LTD
 45.150.33.143,443,NL,Aeza International LTD
+45.150.33.198,443,NL,Aeza International LTD
+45.150.64.152,2053,RU,UFO Hosting LLC
 45.150.64.245,2053,RU,UFO Hosting LLC
 45.150.65.21,8443,US,WorkTitans BV
 45.150.65.231,443,US,WorkTitans BV
@@ -2436,6 +2440,7 @@
 45.156.22.52,2053,FI,as56971 network
 45.156.23.120,443,NL,as56971 network
 45.156.24.61,2053,US,as56971 network
+45.156.24.61,8443,US,as56971 network
 45.156.24.99,2053,US,as56971 network
 45.156.25.160,2053,NL,as56971 network
 45.156.25.160,8443,NL,as56971 network
@@ -2446,10 +2451,7 @@
 45.156.27.152,2053,FR,as56971 network
 45.156.27.152,8443,FR,as56971 network
 45.157.232.100,443,DE,dataforest GmbH
-45.157.232.101,443,DE,dataforest GmbH
-45.157.232.106,443,DE,dataforest GmbH
-45.157.232.122,443,DE,dataforest GmbH
-45.157.232.124,443,DE,dataforest GmbH
+45.157.232.104,443,DE,dataforest GmbH
 45.157.233.203,8104,DE,dataforest GmbH
 45.157.233.208,2087,DE,dataforest GmbH
 45.157.233.208,8102,DE,dataforest GmbH
@@ -2475,331 +2477,6 @@
 45.159.251.8,81,PT,WorkTitans BV
 45.159.51.121,32199,MY,Kaopu Cloud HK Limited
 45.176.192.12,443,CL,INGENIERIA Y ASESORIAS EN COMPUTACION Y COMUNICACION NEOSECURE SA
-45.202.113.0,443,US,Microsoft Corporation
-45.202.113.100,2083,US,Microsoft Corporation
-45.202.113.100,443,US,Microsoft Corporation
-45.202.113.100,8443,US,Microsoft Corporation
-45.202.113.101,2096,US,Microsoft Corporation
-45.202.113.101,443,US,Microsoft Corporation
-45.202.113.102,2087,US,Microsoft Corporation
-45.202.113.103,443,US,Microsoft Corporation
-45.202.113.104,2087,US,Microsoft Corporation
-45.202.113.104,443,US,Microsoft Corporation
-45.202.113.106,2053,US,Microsoft Corporation
-45.202.113.108,8443,US,Microsoft Corporation
-45.202.113.109,2053,US,Microsoft Corporation
-45.202.113.11,2083,US,Microsoft Corporation
-45.202.113.11,443,US,Microsoft Corporation
-45.202.113.111,2087,US,Microsoft Corporation
-45.202.113.112,2053,US,Microsoft Corporation
-45.202.113.113,2083,US,Microsoft Corporation
-45.202.113.113,443,US,Microsoft Corporation
-45.202.113.113,8443,US,Microsoft Corporation
-45.202.113.115,2053,US,Microsoft Corporation
-45.202.113.115,2087,US,Microsoft Corporation
-45.202.113.115,2096,US,Microsoft Corporation
-45.202.113.115,443,US,Microsoft Corporation
-45.202.113.116,2053,US,Microsoft Corporation
-45.202.113.116,2083,US,Microsoft Corporation
-45.202.113.116,2096,US,Microsoft Corporation
-45.202.113.117,2087,US,Microsoft Corporation
-45.202.113.117,443,US,Microsoft Corporation
-45.202.113.118,2053,US,Microsoft Corporation
-45.202.113.118,443,US,Microsoft Corporation
-45.202.113.119,2087,US,Microsoft Corporation
-45.202.113.12,2087,US,Microsoft Corporation
-45.202.113.120,2083,US,Microsoft Corporation
-45.202.113.120,443,US,Microsoft Corporation
-45.202.113.121,443,US,Microsoft Corporation
-45.202.113.124,443,US,Microsoft Corporation
-45.202.113.125,443,US,Microsoft Corporation
-45.202.113.126,2087,US,Microsoft Corporation
-45.202.113.127,443,US,Microsoft Corporation
-45.202.113.128,2087,US,Microsoft Corporation
-45.202.113.129,2053,US,Microsoft Corporation
-45.202.113.129,2096,US,Microsoft Corporation
-45.202.113.131,443,US,Microsoft Corporation
-45.202.113.131,8443,US,Microsoft Corporation
-45.202.113.132,443,US,Microsoft Corporation
-45.202.113.133,443,US,Microsoft Corporation
-45.202.113.134,2087,US,Microsoft Corporation
-45.202.113.135,8443,US,Microsoft Corporation
-45.202.113.136,2096,US,Microsoft Corporation
-45.202.113.137,2053,US,Microsoft Corporation
-45.202.113.137,2083,US,Microsoft Corporation
-45.202.113.138,2087,US,Microsoft Corporation
-45.202.113.139,443,US,Microsoft Corporation
-45.202.113.140,443,US,Microsoft Corporation
-45.202.113.141,2096,US,Microsoft Corporation
-45.202.113.144,2083,US,Microsoft Corporation
-45.202.113.146,2087,US,Microsoft Corporation
-45.202.113.146,2096,US,Microsoft Corporation
-45.202.113.147,443,US,Microsoft Corporation
-45.202.113.148,2083,US,Microsoft Corporation
-45.202.113.148,443,US,Microsoft Corporation
-45.202.113.149,2087,US,Microsoft Corporation
-45.202.113.149,443,US,Microsoft Corporation
-45.202.113.15,2083,US,Microsoft Corporation
-45.202.113.15,443,US,Microsoft Corporation
-45.202.113.151,443,US,Microsoft Corporation
-45.202.113.152,2087,US,Microsoft Corporation
-45.202.113.152,443,US,Microsoft Corporation
-45.202.113.153,443,US,Microsoft Corporation
-45.202.113.155,2053,US,Microsoft Corporation
-45.202.113.155,443,US,Microsoft Corporation
-45.202.113.157,443,US,Microsoft Corporation
-45.202.113.158,443,US,Microsoft Corporation
-45.202.113.160,2083,US,Microsoft Corporation
-45.202.113.160,443,US,Microsoft Corporation
-45.202.113.161,2096,US,Microsoft Corporation
-45.202.113.162,2096,US,Microsoft Corporation
-45.202.113.162,443,US,Microsoft Corporation
-45.202.113.163,443,US,Microsoft Corporation
-45.202.113.163,8443,US,Microsoft Corporation
-45.202.113.164,443,US,Microsoft Corporation
-45.202.113.165,443,US,Microsoft Corporation
-45.202.113.166,2053,US,Microsoft Corporation
-45.202.113.166,2083,US,Microsoft Corporation
-45.202.113.166,443,US,Microsoft Corporation
-45.202.113.167,2053,US,Microsoft Corporation
-45.202.113.167,443,US,Microsoft Corporation
-45.202.113.168,2083,US,Microsoft Corporation
-45.202.113.168,2087,US,Microsoft Corporation
-45.202.113.168,443,US,Microsoft Corporation
-45.202.113.169,2083,US,Microsoft Corporation
-45.202.113.169,2087,US,Microsoft Corporation
-45.202.113.169,443,US,Microsoft Corporation
-45.202.113.17,443,US,Microsoft Corporation
-45.202.113.170,2083,US,Microsoft Corporation
-45.202.113.170,443,US,Microsoft Corporation
-45.202.113.170,8443,US,Microsoft Corporation
-45.202.113.173,2096,US,Microsoft Corporation
-45.202.113.173,443,US,Microsoft Corporation
-45.202.113.175,443,US,Microsoft Corporation
-45.202.113.176,2087,US,Microsoft Corporation
-45.202.113.177,2053,US,Microsoft Corporation
-45.202.113.177,443,US,Microsoft Corporation
-45.202.113.178,443,US,Microsoft Corporation
-45.202.113.18,2083,US,Microsoft Corporation
-45.202.113.180,2053,US,Microsoft Corporation
-45.202.113.180,2083,US,Microsoft Corporation
-45.202.113.180,2096,US,Microsoft Corporation
-45.202.113.181,2053,US,Microsoft Corporation
-45.202.113.182,2096,US,Microsoft Corporation
-45.202.113.183,443,US,Microsoft Corporation
-45.202.113.183,8443,US,Microsoft Corporation
-45.202.113.184,2053,US,Microsoft Corporation
-45.202.113.184,443,US,Microsoft Corporation
-45.202.113.184,8443,US,Microsoft Corporation
-45.202.113.185,2083,US,Microsoft Corporation
-45.202.113.185,8443,US,Microsoft Corporation
-45.202.113.187,2087,US,Microsoft Corporation
-45.202.113.187,443,US,Microsoft Corporation
-45.202.113.189,2087,US,Microsoft Corporation
-45.202.113.189,2096,US,Microsoft Corporation
-45.202.113.189,8443,US,Microsoft Corporation
-45.202.113.190,443,US,Microsoft Corporation
-45.202.113.191,2096,US,Microsoft Corporation
-45.202.113.193,443,US,Microsoft Corporation
-45.202.113.194,2083,US,Microsoft Corporation
-45.202.113.194,443,US,Microsoft Corporation
-45.202.113.195,2087,US,Microsoft Corporation
-45.202.113.196,2083,US,Microsoft Corporation
-45.202.113.197,2083,US,Microsoft Corporation
-45.202.113.199,2087,US,Microsoft Corporation
-45.202.113.199,443,US,Microsoft Corporation
-45.202.113.2,2083,US,Microsoft Corporation
-45.202.113.2,443,US,Microsoft Corporation
-45.202.113.201,2083,US,Microsoft Corporation
-45.202.113.201,2087,US,Microsoft Corporation
-45.202.113.201,443,US,Microsoft Corporation
-45.202.113.202,2087,US,Microsoft Corporation
-45.202.113.202,443,US,Microsoft Corporation
-45.202.113.203,2053,US,Microsoft Corporation
-45.202.113.203,443,US,Microsoft Corporation
-45.202.113.204,8443,US,Microsoft Corporation
-45.202.113.205,2053,US,Microsoft Corporation
-45.202.113.206,443,US,Microsoft Corporation
-45.202.113.206,8443,US,Microsoft Corporation
-45.202.113.207,2083,US,Microsoft Corporation
-45.202.113.208,443,US,Microsoft Corporation
-45.202.113.209,2087,US,Microsoft Corporation
-45.202.113.209,443,US,Microsoft Corporation
-45.202.113.21,2087,US,Microsoft Corporation
-45.202.113.21,2096,US,Microsoft Corporation
-45.202.113.210,2087,US,Microsoft Corporation
-45.202.113.210,443,US,Microsoft Corporation
-45.202.113.211,2087,US,Microsoft Corporation
-45.202.113.211,443,US,Microsoft Corporation
-45.202.113.211,8443,US,Microsoft Corporation
-45.202.113.212,443,US,Microsoft Corporation
-45.202.113.212,8443,US,Microsoft Corporation
-45.202.113.213,443,US,Microsoft Corporation
-45.202.113.213,8443,US,Microsoft Corporation
-45.202.113.214,443,US,Microsoft Corporation
-45.202.113.215,443,US,Microsoft Corporation
-45.202.113.215,8443,US,Microsoft Corporation
-45.202.113.216,8443,US,Microsoft Corporation
-45.202.113.218,2083,US,Microsoft Corporation
-45.202.113.219,443,US,Microsoft Corporation
-45.202.113.22,2053,US,Microsoft Corporation
-45.202.113.22,2096,US,Microsoft Corporation
-45.202.113.22,443,US,Microsoft Corporation
-45.202.113.220,2096,US,Microsoft Corporation
-45.202.113.220,443,US,Microsoft Corporation
-45.202.113.221,2053,US,Microsoft Corporation
-45.202.113.222,443,US,Microsoft Corporation
-45.202.113.223,443,US,Microsoft Corporation
-45.202.113.224,2096,US,Microsoft Corporation
-45.202.113.224,443,US,Microsoft Corporation
-45.202.113.225,2096,US,Microsoft Corporation
-45.202.113.225,8443,US,Microsoft Corporation
-45.202.113.226,2053,US,Microsoft Corporation
-45.202.113.227,2096,US,Microsoft Corporation
-45.202.113.227,443,US,Microsoft Corporation
-45.202.113.228,443,US,Microsoft Corporation
-45.202.113.23,443,US,Microsoft Corporation
-45.202.113.230,2053,US,Microsoft Corporation
-45.202.113.230,2083,US,Microsoft Corporation
-45.202.113.230,2096,US,Microsoft Corporation
-45.202.113.230,8443,US,Microsoft Corporation
-45.202.113.231,443,US,Microsoft Corporation
-45.202.113.233,443,US,Microsoft Corporation
-45.202.113.234,2096,US,Microsoft Corporation
-45.202.113.235,2053,US,Microsoft Corporation
-45.202.113.235,2096,US,Microsoft Corporation
-45.202.113.235,443,US,Microsoft Corporation
-45.202.113.237,2096,US,Microsoft Corporation
-45.202.113.238,2083,US,Microsoft Corporation
-45.202.113.239,443,US,Microsoft Corporation
-45.202.113.24,2083,US,Microsoft Corporation
-45.202.113.240,2096,US,Microsoft Corporation
-45.202.113.240,443,US,Microsoft Corporation
-45.202.113.240,8443,US,Microsoft Corporation
-45.202.113.242,443,US,Microsoft Corporation
-45.202.113.243,443,US,Microsoft Corporation
-45.202.113.243,8443,US,Microsoft Corporation
-45.202.113.245,2087,US,Microsoft Corporation
-45.202.113.245,2096,US,Microsoft Corporation
-45.202.113.245,443,US,Microsoft Corporation
-45.202.113.246,2096,US,Microsoft Corporation
-45.202.113.246,443,US,Microsoft Corporation
-45.202.113.247,443,US,Microsoft Corporation
-45.202.113.248,2053,US,Microsoft Corporation
-45.202.113.249,2053,US,Microsoft Corporation
-45.202.113.25,2053,US,Microsoft Corporation
-45.202.113.250,2087,US,Microsoft Corporation
-45.202.113.250,443,US,Microsoft Corporation
-45.202.113.250,8443,US,Microsoft Corporation
-45.202.113.251,2083,US,Microsoft Corporation
-45.202.113.251,2087,US,Microsoft Corporation
-45.202.113.251,2096,US,Microsoft Corporation
-45.202.113.251,8443,US,Microsoft Corporation
-45.202.113.253,443,US,Microsoft Corporation
-45.202.113.255,2096,US,Microsoft Corporation
-45.202.113.255,443,US,Microsoft Corporation
-45.202.113.26,443,US,Microsoft Corporation
-45.202.113.27,2083,US,Microsoft Corporation
-45.202.113.27,2096,US,Microsoft Corporation
-45.202.113.27,8443,US,Microsoft Corporation
-45.202.113.29,2087,US,Microsoft Corporation
-45.202.113.29,443,US,Microsoft Corporation
-45.202.113.3,2053,US,Microsoft Corporation
-45.202.113.31,443,US,Microsoft Corporation
-45.202.113.32,443,US,Microsoft Corporation
-45.202.113.33,443,US,Microsoft Corporation
-45.202.113.34,2087,US,Microsoft Corporation
-45.202.113.34,443,US,Microsoft Corporation
-45.202.113.35,443,US,Microsoft Corporation
-45.202.113.37,443,US,Microsoft Corporation
-45.202.113.39,2096,US,Microsoft Corporation
-45.202.113.39,443,US,Microsoft Corporation
-45.202.113.4,2053,US,Microsoft Corporation
-45.202.113.4,443,US,Microsoft Corporation
-45.202.113.4,8443,US,Microsoft Corporation
-45.202.113.40,2083,US,Microsoft Corporation
-45.202.113.40,443,US,Microsoft Corporation
-45.202.113.40,8443,US,Microsoft Corporation
-45.202.113.41,2096,US,Microsoft Corporation
-45.202.113.41,443,US,Microsoft Corporation
-45.202.113.42,2096,US,Microsoft Corporation
-45.202.113.42,443,US,Microsoft Corporation
-45.202.113.43,443,US,Microsoft Corporation
-45.202.113.45,443,US,Microsoft Corporation
-45.202.113.46,2053,US,Microsoft Corporation
-45.202.113.47,2083,US,Microsoft Corporation
-45.202.113.47,443,US,Microsoft Corporation
-45.202.113.48,2053,US,Microsoft Corporation
-45.202.113.49,443,US,Microsoft Corporation
-45.202.113.5,443,US,Microsoft Corporation
-45.202.113.50,2053,US,Microsoft Corporation
-45.202.113.51,2053,US,Microsoft Corporation
-45.202.113.51,2083,US,Microsoft Corporation
-45.202.113.51,2087,US,Microsoft Corporation
-45.202.113.51,8443,US,Microsoft Corporation
-45.202.113.52,2083,US,Microsoft Corporation
-45.202.113.52,443,US,Microsoft Corporation
-45.202.113.53,443,US,Microsoft Corporation
-45.202.113.54,443,US,Microsoft Corporation
-45.202.113.55,2096,US,Microsoft Corporation
-45.202.113.55,443,US,Microsoft Corporation
-45.202.113.55,8443,US,Microsoft Corporation
-45.202.113.56,8443,US,Microsoft Corporation
-45.202.113.58,2053,US,Microsoft Corporation
-45.202.113.58,2096,US,Microsoft Corporation
-45.202.113.59,2053,US,Microsoft Corporation
-45.202.113.59,2096,US,Microsoft Corporation
-45.202.113.59,443,US,Microsoft Corporation
-45.202.113.60,8443,US,Microsoft Corporation
-45.202.113.62,8443,US,Microsoft Corporation
-45.202.113.64,443,US,Microsoft Corporation
-45.202.113.65,443,US,Microsoft Corporation
-45.202.113.65,8443,US,Microsoft Corporation
-45.202.113.66,2096,US,Microsoft Corporation
-45.202.113.66,443,US,Microsoft Corporation
-45.202.113.67,2053,US,Microsoft Corporation
-45.202.113.67,2096,US,Microsoft Corporation
-45.202.113.69,443,US,Microsoft Corporation
-45.202.113.70,443,US,Microsoft Corporation
-45.202.113.71,2087,US,Microsoft Corporation
-45.202.113.71,8443,US,Microsoft Corporation
-45.202.113.72,2053,US,Microsoft Corporation
-45.202.113.74,2083,US,Microsoft Corporation
-45.202.113.74,443,US,Microsoft Corporation
-45.202.113.75,2053,US,Microsoft Corporation
-45.202.113.76,2083,US,Microsoft Corporation
-45.202.113.77,2087,US,Microsoft Corporation
-45.202.113.77,443,US,Microsoft Corporation
-45.202.113.78,2096,US,Microsoft Corporation
-45.202.113.78,443,US,Microsoft Corporation
-45.202.113.79,443,US,Microsoft Corporation
-45.202.113.8,2053,US,Microsoft Corporation
-45.202.113.80,443,US,Microsoft Corporation
-45.202.113.82,2053,US,Microsoft Corporation
-45.202.113.82,8443,US,Microsoft Corporation
-45.202.113.83,2096,US,Microsoft Corporation
-45.202.113.83,443,US,Microsoft Corporation
-45.202.113.84,2053,US,Microsoft Corporation
-45.202.113.84,443,US,Microsoft Corporation
-45.202.113.85,2053,US,Microsoft Corporation
-45.202.113.85,2087,US,Microsoft Corporation
-45.202.113.86,2053,US,Microsoft Corporation
-45.202.113.86,2083,US,Microsoft Corporation
-45.202.113.86,443,US,Microsoft Corporation
-45.202.113.87,443,US,Microsoft Corporation
-45.202.113.88,2096,US,Microsoft Corporation
-45.202.113.89,443,US,Microsoft Corporation
-45.202.113.90,443,US,Microsoft Corporation
-45.202.113.91,443,US,Microsoft Corporation
-45.202.113.92,2053,US,Microsoft Corporation
-45.202.113.93,2053,US,Microsoft Corporation
-45.202.113.93,2096,US,Microsoft Corporation
-45.202.113.93,8443,US,Microsoft Corporation
-45.202.113.94,443,US,Microsoft Corporation
-45.202.113.95,2083,US,Microsoft Corporation
-45.202.113.96,2087,US,Microsoft Corporation
-45.202.113.98,2053,US,Microsoft Corporation
-45.202.113.99,2087,US,Microsoft Corporation
 45.207.158.29,2053,TW,Akile LTD
 45.207.158.29,2083,TW,Akile LTD
 45.207.158.29,8443,TW,Akile LTD
@@ -2893,8 +2570,10 @@
 45.61.152.101,2053,GB,RouterHosting LLC
 45.61.152.101,8443,GB,RouterHosting LLC
 45.61.166.121,443,US,RouterHosting LLC
+45.61.185.75,443,US,FranTech Solutions
 45.62.100.129,8443,US,IT7 Networks Inc
 45.62.107.226,443,US,IT7 Networks Inc
+45.62.112.177,8443,US,IT7 Networks Inc
 45.62.113.176,443,US,IT7 Networks Inc
 45.62.127.160,10443,US,IT7 Networks Inc
 45.63.100.255,2053,GB,Vultr Holdings LLC
@@ -2932,7 +2611,7 @@
 45.76.198.248,443,JP,Vultr Holdings LLC
 45.76.204.220,51464,JP,Vultr Holdings LLC
 45.76.232.169,22711,US,Vultr Holdings LLC
-45.76.80.253,8443,DE,The Constant Company LLC
+45.76.80.253,8443,DE,Vultr Holdings LLC
 45.76.82.192,443,DE,Vultr Holdings LLC
 45.76.90.156,443,DE,Vultr Holdings LLC
 45.76.95.89,8443,DE,The Constant Company LLC
@@ -2946,9 +2625,11 @@
 45.77.52.102,8443,DE,Vultr Holdings LLC
 45.77.64.28,8443,DE,Vultr Holdings LLC
 45.77.9.114,443,JP,Vultr Holdings LLC
+45.78.1.88,443,US,IT7 Networks Inc
 45.78.20.111,15674,HK,IT7 Networks Inc
 45.78.24.125,10007,HK,IT7 Networks Inc
 45.78.30.24,2540,HK,IT7 Networks Inc
+45.78.30.24,443,HK,IT7 Networks Inc
 45.79.248.131,443,DE,Linode LLC
 45.79.248.18,443,DE,Linode LLC
 45.79.248.209,443,DE,Linode LLC
@@ -2968,7 +2649,7 @@
 45.8.146.42,2053,US,WorkTitans BV
 45.8.146.42,8443,US,WorkTitans BV
 45.8.146.94,443,US,WorkTitans BV
-45.8.157.162,443,US,NKtelecom INC
+45.8.157.162,443,US,NKtelecom Inc
 45.8.157.39,443,US,NKtelecom INC
 45.8.251.66,8443,RU,JSC Selectel
 45.8.98.82,2053,KZ,Quasar LLC
@@ -3013,6 +2694,7 @@
 45.83.131.36,443,SI,WorkTitans BV
 45.83.131.8,2096,SI,WorkTitans BV
 45.83.140.133,2053,US,WorkTitans BV
+45.83.141.39,443,MK,WorkTitans BV
 45.83.141.54,443,MK,WorkTitans BV
 45.83.141.93,443,MK,WorkTitans BV
 45.83.143.52,2096,AM,WorkTitans BV
@@ -3094,7 +2776,6 @@
 45.89.107.118,443,MY,WorkTitans BV
 45.89.108.228,443,NL,WorkTitans BV
 45.89.110.128,443,NL,WorkTitans BV
-45.89.110.69,443,NL,WorkTitans BV
 45.89.111.182,443,GB,WorkTitans BV
 45.89.196.116,443,NL,WorkTitans BV
 45.89.196.226,443,NL,WorkTitans BV
@@ -3225,7 +2906,6 @@
 46.105.39.5,443,FR,OVH SAS
 46.105.92.158,2053,FR,OVH SAS
 46.105.92.158,8443,FR,OVH SAS
-46.105.92.46,443,FR,OVH SAS
 46.148.228.45,2053,RU,Selectel Network
 46.148.228.45,8443,RU,Selectel Network
 46.149.73.96,2053,NL,Amsterdam Netherlands
@@ -3234,8 +2914,6 @@
 46.149.77.214,8443,NL,Amsterdam Netherlands
 46.149.78.144,2053,NL,Amsterdam Netherlands
 46.149.78.144,8443,NL,Amsterdam Netherlands
-46.149.78.223,2053,NL,Amsterdam Netherlands
-46.149.78.223,8443,NL,Amsterdam Netherlands
 46.151.24.236,2053,NL,Amsterdam Netherlands
 46.151.24.236,8443,NL,Amsterdam Netherlands
 46.151.26.248,2053,NL,Amsterdam Netherlands
@@ -3304,6 +2982,7 @@
 46.22.211.46,443,EE,Aktsiaselts WaveCom
 46.226.160.150,16009,SE,Aeza International LTD
 46.226.160.150,443,SE,Aeza International LTD
+46.226.160.239,443,SE,Aeza International LTD
 46.226.160.9,443,SE,Aeza International LTD
 46.226.160.96,443,SE,Aeza International LTD
 46.226.161.12,2053,SE,Aeza International LTD
@@ -3329,7 +3008,8 @@
 46.227.50.116,443,GB,DIGNITY
 46.229.212.218,2053,RU,JSC TIMEWEB
 46.229.212.218,8443,RU,JSC TIMEWEB
-46.229.253.151,443,DE,INTERKVM HOST SRL
+46.229.253.148,443,DE,INTERKVM HOST SRL
+46.229.253.149,443,DE,INTERKVM HOST SRL
 46.232.108.217,443,HK,Dom Tehniki Ltd
 46.232.122.240,8000,HK,Dom Tehniki Ltd
 46.243.1.194,443,FI,ISERVERS LTD
@@ -3623,25 +3303,17 @@
 50.7.156.98,443,DE,FDCserversnet
 50.7.156.99,443,DE,FDCserversnet
 50.7.40.175,443,NL,FDCserversnet LLC
-50.7.85.219,443,DE,FDCserversnet
 50.7.85.221,2083,DE,FDCserversnet
-50.7.85.221,443,DE,FDCserversnet
 50.7.85.221,8443,DE,FDCserversnet
-50.7.85.222,443,DE,FDCserversnet
 50.7.87.82,2083,DE,FDCserversnet
-50.7.87.82,443,DE,FDCserversnet
 50.7.87.82,8443,DE,FDCserversnet
 50.7.87.83,2083,DE,FDCserversnet
-50.7.87.83,443,DE,FDCserversnet
 50.7.87.83,8443,DE,FDCserversnet
 50.7.87.84,2083,DE,FDCserversnet
-50.7.87.84,443,DE,FDCserversnet
 50.7.87.84,8443,DE,FDCserversnet
 50.7.87.85,2083,DE,FDCserversnet
-50.7.87.85,443,DE,FDCserversnet
 50.7.87.85,8443,DE,FDCserversnet
 50.7.87.86,2083,DE,FDCserversnet
-50.7.87.86,443,DE,FDCserversnet
 50.7.87.86,8443,DE,FDCserversnet
 51.103.234.115,2083,CH,Microsoft Limited
 51.120.240.39,443,NO,Microsoft Limited
@@ -3709,6 +3381,7 @@
 51.178.141.36,443,FR,OVH SAS
 51.178.141.36,8443,FR,OVH SAS
 51.178.207.109,443,FR,OVH SAS
+51.178.236.119,8443,FR,EL Zayat Hadi
 51.178.25.59,8443,FR,OVH SAS
 51.178.27.222,443,FR,OVH SAS
 51.178.27.222,8443,FR,OVH SAS
@@ -4290,6 +3963,7 @@
 52.10.78.7,443,US,Amazoncom Inc
 52.10.78.7,80,US,Amazoncom Inc
 52.11.38.216,443,US,Amazoncom Inc
+52.137.60.154,443,NL,Microsoft Corporation
 52.141.25.42,443,KR,Microsoft Corporation
 52.146.7.187,443,US,Microsoft Corporation
 52.149.122.2,443,NL,Microsoft Corporation
@@ -4333,7 +4007,6 @@
 54.229.164.147,8443,IE,Amazoncom Inc
 54.246.82.250,443,IE,Amazon Technologies Inc
 54.247.36.82,443,IE,Amazon Data Services Ireland Limited
-54.251.237.176,443,SG,Amazoncom Inc
 54.255.217.120,8192,SG,Amazon Data Services Japan
 54.36.100.7,2053,FR,OVH SAS
 54.36.100.7,8443,FR,OVH SAS
@@ -4900,6 +4573,7 @@
 58.247.200.18,443,CN,CHINA UNICOM Shanghai network
 58.27.117.24,443,MY,TMNET
 58.76.69.164,50001,KR,LG DACOM Corporation
+58.78.224.238,30013,KR,LG POWERCOMM
 59.1.59.225,50001,KR,Korea Telecom
 59.11.39.221,50001,KR,Korea Telecom
 59.152.172.142,50001,KR,LG HelloVision Corp
@@ -4959,18 +4633,12 @@
 62.133.63.86,8443,TR,GLOBAL CONNECTIVITY SOLUTIONS LLP
 62.141.35.219,2053,DE,WIIT AG
 62.141.35.219,8443,DE,WIIT AG
-62.146.172.119,443,US,Contabo GmbH
+62.146.172.119,443,US,Contabo Inc
 62.164.130.49,8443,US,CLOUVIDER Virtual Machines
 62.182.192.134,443,SE,SIA VEESP
 62.192.174.143,12110,LV,SERVA ONE LTD
-62.192.174.170,2053,LV,SERVA ONE LTD
 62.192.174.170,8443,LV,SERVA ONE LTD
 62.192.174.175,2053,LV,SERVA ONE LTD
-62.192.174.175,8443,LV,SERVA ONE LTD
-62.192.174.212,443,LV,SERVA ONE LTD
-62.192.174.214,443,LV,SERVA ONE LTD
-62.192.174.228,2053,LV,SERVA ONE LTD
-62.192.174.248,443,LV,SERVA ONE LTD
 62.192.174.31,443,LV,SERVA ONE LTD
 62.212.68.100,443,NL,LeaseWeb Netherlands BV
 62.233.57.156,443,CZ,GREEN FLOID LLC
@@ -5033,7 +4701,6 @@
 62.60.159.129,8443,SE,Aeza International LTD
 62.60.159.140,443,SE,Aeza International LTD
 62.60.159.141,2053,SE,Smart Digital Ideas DOO
-62.60.159.179,443,SE,Aeza International LTD
 62.60.159.187,443,SE,Aeza International LTD
 62.60.159.189,443,RU,Aeza International LTD
 62.60.159.198,443,SE,Aeza International LTD
@@ -5047,7 +4714,7 @@
 62.60.186.78,8443,SE,Aeza International LTD
 62.60.186.81,443,SE,Aeza International LTD
 62.60.186.93,443,SE,Smart Digital Ideas DOO
-62.60.193.93,2087,IR,Respina Networks  Beyond PJSC
+62.60.193.93,2087,IR,Manageit System Cloud
 62.60.216.158,443,DE,Aeza International LTD
 62.60.216.165,443,DE,Aeza International LTD
 62.60.216.169,443,DE,Aeza International LTD
@@ -5101,6 +4768,7 @@
 62.60.234.179,2053,LV,GLOBAL CONNECTIVITY SOLUTIONS LLP
 62.60.234.179,8443,LV,GLOBAL CONNECTIVITY SOLUTIONS LLP
 62.60.235.62,443,NL,Aeza International LTD
+62.60.236.47,443,FI,Smart Digital Ideas DOO
 62.60.236.54,443,GB,Aeza International LTD
 62.60.237.186,443,FI,Aeza International LTD
 62.60.237.234,443,FI,Aeza International LTD
@@ -5224,12 +4892,12 @@
 63.205.203.251,443,US,ATT Enterprises LLC
 63.32.194.15,2053,IE,Amazon Data Services Ireland Limited
 63.32.194.15,8443,IE,Amazon Data Services Ireland Limited
-64.110.101.125,443,JP,Oracle Corporation
+64.110.101.31,8443,JP,Oracle Corporation
+64.110.101.31,8888,JP,Oracle Corporation
 64.110.101.90,55007,JP,Oracle Corporation
 64.110.104.30,443,JP,Oracle Corporation
 64.110.70.205,23022,KR,Oracle Corporation
 64.110.75.145,443,KR,Oracle Corporation
-64.110.79.188,443,KR,Oracle Corporation
 64.137.9.20,443,US,3HCLOUD LLC
 64.15.75.112,2053,CA,eStruxture Data Centers Inc
 64.176.15.168,8443,CL,The Constant Company LLC
@@ -5267,6 +4935,8 @@
 64.21.191.164,443,CA,N6 Cloud inc
 64.225.2.218,2053,US,DigitalOcean LLC
 64.225.2.218,8443,US,DigitalOcean LLC
+64.225.68.70,2053,NL,DigitalOcean LLC
+64.225.68.70,8443,NL,DigitalOcean LLC
 64.225.71.246,2053,NL,DigitalOcean LLC
 64.225.71.246,8443,NL,DigitalOcean LLC
 64.225.77.36,443,NL,DigitalOcean LLC
@@ -5329,6 +4999,7 @@
 64.238.203.98,8443,DE,Customer allocation HB Client 2916
 64.238.203.99,8443,DE,Customer allocation HB Client 2916
 64.44.177.238,10010,US,365 Group
+64.44.86.201,44759,US,Nexeon Technologies Inc
 64.44.86.208,12312,US,Nexeon Technologies Inc
 64.64.227.230,7788,US,Cluster Logic Inc
 64.64.228.98,2053,US,Cluster Logic Inc
@@ -5338,6 +5009,7 @@
 65.108.145.108,8443,FI,Hetzner Online GmbH
 65.108.149.250,2053,FI,Hetzner Online GmbH
 65.108.149.250,8443,FI,Hetzner Online GmbH
+65.108.158.192,443,FI,Hetzner Online GmbH
 65.108.209.46,443,FI,Hetzner Online GmbH
 65.108.210.153,2058,FI,Hetzner Online GmbH
 65.108.217.253,443,FI,Hetzner Online GmbH
@@ -5363,7 +5035,6 @@
 65.109.176.153,443,FI,Hetzner Online GmbH
 65.109.176.217,443,FI,Hetzner Online GmbH
 65.109.177.244,443,FI,Hetzner Online GmbH
-65.109.179.215,443,FI,Hetzner Online GmbH
 65.109.179.243,2087,FI,Hetzner Online GmbH
 65.109.180.149,2083,FI,Hetzner Online GmbH
 65.109.181.177,38450,FI,Hetzner Online GmbH
@@ -5440,7 +5111,6 @@
 65.109.214.6,2096,FI,Hetzner Online GmbH
 65.109.214.6,8443,FI,Hetzner Online GmbH
 65.109.217.10,443,FI,Hetzner Online GmbH
-65.109.219.57,443,FI,Hetzner Online GmbH
 65.109.219.57,8443,FI,Hetzner Online GmbH
 65.109.220.238,2053,FI,Hetzner Online GmbH
 65.109.220.238,2096,FI,Hetzner Online GmbH
@@ -5484,7 +5154,6 @@
 66.103.201.224,8443,US,MULTACOM CORPORATION
 66.103.210.62,443,US,MULTACOM CORPORATION
 66.103.216.135,8443,US,MULTACOM CORPORATION
-66.112.209.226,443,US,IT7 Networks Inc
 66.112.213.121,2096,US,Hurricane Electric LLC
 66.112.215.227,18819,US,IT7 Networks Inc
 66.112.217.201,443,US,IT7 Networks Inc
@@ -5528,6 +5197,7 @@
 66.248.207.52,443,NL,HOSTKEY BV
 66.248.207.96,443,NL,HOSTKEY BV
 66.253.7.79,443,US,I2000 Inc
+66.42.32.115,443,JP,TYOVULTRCUST
 66.42.51.60,8443,SG,SGPVULTRCUST
 66.42.68.129,10089,US,Vultr Holdings LLC
 66.63.182.153,8081,US,None
@@ -5538,8 +5208,7 @@
 67.207.79.86,2053,DE,DigitalOcean LLC
 67.207.79.86,8443,DE,DigitalOcean LLC
 67.209.179.237,30419,US,IT7 Networks Inc
-67.209.183.236,443,US,IT7 Networks Inc
-67.218.155.64,443,US,Cluster Logic Inc
+67.209.183.236,443,US,Hurricane Electric LLC
 67.226.220.10,443,US,Securly Inc
 67.226.220.10,80,US,Securly Inc
 67.226.220.41,80,US,Securly Inc
@@ -5575,43 +5244,38 @@
 67.226.221.98,80,US,Securly Inc
 67.226.221.99,80,US,Securly Inc
 67.226.222.122,80,US,Securly Inc
-67.226.222.148,80,US,Securly Inc
 67.226.222.173,80,US,Securly Inc
-67.226.222.191,80,US,Securly Inc
 67.226.222.2,443,US,Securly Inc
 67.226.222.2,80,US,Securly Inc
-67.226.222.207,80,US,Securly Inc
-67.226.222.229,80,US,Securly Inc
 67.226.222.68,80,US,Securly Inc
 67.226.222.87,80,US,Securly Inc
-67.226.223.111,80,GB,Securly Inc
+67.226.223.115,80,GB,Securly Inc
+67.226.223.12,80,GB,Securly Inc
 67.226.223.131,80,GB,Securly Inc
-67.226.223.134,80,GB,Securly Inc
-67.226.223.136,80,GB,Securly Inc
 67.226.223.142,80,GB,Securly Inc
 67.226.223.16,80,GB,Securly Inc
-67.226.223.168,80,GB,Securly Inc
+67.226.223.169,80,GB,Securly Inc
 67.226.223.171,80,GB,Securly Inc
+67.226.223.173,80,GB,Securly Inc
 67.226.223.176,80,GB,Securly Inc
-67.226.223.187,80,GB,Securly Inc
-67.226.223.192,80,GB,Securly Inc
-67.226.223.195,80,GB,Securly Inc
-67.226.223.2,80,GB,Securly Inc
+67.226.223.188,80,GB,Securly Inc
 67.226.223.206,443,GB,Securly Inc
 67.226.223.206,80,GB,Securly Inc
 67.226.223.217,443,GB,Securly Inc
 67.226.223.217,80,GB,Securly Inc
-67.226.223.222,80,GB,Securly Inc
+67.226.223.219,80,GB,Securly Inc
 67.226.223.224,80,GB,Securly Inc
-67.226.223.229,80,GB,Securly Inc
+67.226.223.235,80,GB,Securly Inc
+67.226.223.244,80,GB,Securly Inc
 67.226.223.254,80,GB,Securly Inc
 67.226.223.29,80,GB,Securly Inc
+67.226.223.39,80,GB,Securly Inc
 67.226.223.45,80,GB,Securly Inc
+67.226.223.49,80,GB,Securly Inc
 67.226.223.50,80,GB,Securly Inc
+67.226.223.53,80,GB,Securly Inc
 67.226.223.54,80,GB,Securly Inc
-67.226.223.6,80,GB,Securly Inc
 67.226.223.69,80,GB,Securly Inc
-67.226.223.7,80,GB,Securly Inc
 67.226.223.87,80,GB,Securly Inc
 67.226.223.88,443,GB,Securly Inc
 67.226.223.88,80,GB,Securly Inc
@@ -5658,7 +5322,6 @@
 70.34.244.250,53062,PL,The Constant Company LLC
 70.34.245.176,2053,PL,The Constant Company LLC
 70.34.245.176,8443,PL,The Constant Company LLC
-72.13.122.137,443,US,Total Uptime Technologies LLC
 72.167.140.7,2053,US,GoDaddycom LLC
 72.167.140.7,8443,US,GoDaddycom LLC
 72.18.132.149,2053,US,Exabytes Network Singapore Pte Ltd
@@ -5668,7 +5331,6 @@
 74.119.195.141,443,NL,WorkTitans BV
 74.119.195.197,443,NL,WorkTitans BV
 74.119.195.57,8443,NL,WorkTitans BV
-74.120.174.34,443,US,Cluster Logic Inc
 74.208.150.213,443,US,IONOS Inc
 74.211.102.111,443,US,Cluster Logic Inc
 74.211.103.172,443,US,Cluster Logic Inc
@@ -5687,17 +5349,16 @@
 74.48.179.37,58184,US,MULTACOM CORPORATION
 74.48.196.47,443,US,MULTACOM CORPORATION
 74.48.204.74,443,US,MULTACOM CORPORATION
-74.48.220.29,443,US,MULTACOM CORPORATION
 74.48.221.141,26255,US,MULTACOM CORPORATION
 74.48.221.175,8443,US,MULTACOM CORPORATION
 74.48.4.205,12525,US,MULTACOM CORPORATION
 74.48.4.29,37731,US,MULTACOM CORPORATION
-74.48.46.35,443,US,MULTACOM CORPORATION
 74.48.50.18,54696,US,MULTACOM CORPORATION
-74.48.57.50,443,US,MULTACOM CORPORATION
+74.48.52.222,443,US,MULTACOM CORPORATION
 74.48.66.211,443,US,MULTACOM CORPORATION
 74.48.77.104,35273,US,MULTACOM CORPORATION
 74.48.81.93,443,US,MULTACOM CORPORATION
+74.48.83.206,443,US,MULTACOM CORPORATION
 74.48.83.62,443,US,MULTACOM CORPORATION
 74.48.89.211,443,US,MULTACOM CORPORATION
 74.48.91.121,443,US,IT7 Networks Inc
@@ -5731,6 +5392,7 @@
 77.110.104.41,8443,RU,Aeza International LTD
 77.110.106.241,443,RU,Aeza International LTD
 77.110.107.199,443,DE,GLOBAL CONNECTIVITY SOLUTIONS LLP
+77.110.108.165,443,GB,Aeza International LTD
 77.110.108.38,443,GB,Aeza International LTD
 77.110.109.199,443,US,Aeza International LTD
 77.110.109.7,443,US,Aeza International LTD
@@ -5994,13 +5656,12 @@
 77.239.109.125,8443,NL,Ace Data Centers II LLC
 77.239.110.137,443,DE,Ace Data Centers II LLC
 77.239.121.13,443,DE,Senko Digital Ltd
+77.239.121.200,443,DE,Senko Digital Ltd
 77.239.122.27,8443,NL,Amsterdam Netherlands
 77.239.125.68,8443,DE,play2gocloud  Cheap and reliable hosting
 77.239.229.180,443,RU,Comfortel Ltd
 77.239.97.82,443,DE,nuxtcloud hosting provider
 77.243.80.224,443,KZ,PS Internet Company LLP
-77.246.100.139,2053,NL,Amsterdam Netherlands
-77.246.100.139,8443,NL,Amsterdam Netherlands
 77.246.100.187,2053,NL,Amsterdam Netherlands
 77.246.100.187,8443,NL,Amsterdam Netherlands
 77.246.101.187,8443,NL,Amsterdam Netherlands
@@ -6066,6 +5727,8 @@
 77.81.138.238,2053,DE,IPHOSTER OU
 77.81.138.64,2053,DE,IPHOSTER OU
 77.81.138.93,2053,DE,IPHOSTER OU
+77.81.234.27,2053,IT,Aruba SpA  Cloud Services Farm2
+77.81.234.27,8443,IT,Aruba SpA  Cloud Services Farm2
 77.81.65.10,443,DE,RCS Technologies FZE LLC
 77.81.65.9,2053,DE,RCS Technologies FZE LLC
 77.81.65.9,8443,DE,RCS Technologies FZE LLC
@@ -6089,8 +5752,11 @@
 77.90.6.193,8443,DE,Hostbrr Solutions
 77.91.100.78,443,BG,WorkTitans BV
 77.91.101.14,443,GB,WorkTitans BV
+77.91.101.83,2053,GB,WorkTitans BV
 77.91.102.183,443,PL,WorkTitans BV
 77.91.122.53,443,NL,Cloudflare London LLC
+77.91.123.143,2053,NL,WorkTitans BV
+77.91.123.143,8443,NL,WorkTitans BV
 77.91.126.58,443,US,365partners INC
 77.91.126.60,2053,US,365partners INC
 77.91.126.60,8443,US,365partners INC
@@ -6166,6 +5832,7 @@
 77.91.77.91,443,DE,Aeza International LTD
 77.91.78.108,443,FI,Aeza International LTD
 77.91.78.110,443,FI,Aeza International LTD
+77.91.78.127,443,FI,Aeza International LTD
 77.91.78.13,8443,FI,Aeza International LTD
 77.91.78.15,2053,FI,HyperCore LTD
 77.91.78.15,8443,FI,HyperCore LTD
@@ -6183,7 +5850,6 @@
 77.91.78.91,443,FI,Aeza International LTD
 77.91.78.97,2053,FI,HyperCore LTD
 77.91.84.229,2053,SE,Aeza International LTD
-77.91.84.229,8443,SE,Aeza International LTD
 77.91.85.109,443,SE,Aeza International LTD
 77.91.85.22,443,SE,Aeza International LTD
 77.91.85.4,443,SE,Aeza International LTD
@@ -6200,6 +5866,7 @@
 77.92.145.164,443,TR,ULTAHOST HOSTING VE VERI MERKEZI LTD STI
 77.95.203.83,443,RU,JSC TIMEWEB
 78.108.216.48,8442,DE,DeinServerHost
+78.109.201.177,443,IR,Afranet
 78.111.88.107,443,US,ITGLOBALCOM NL BV
 78.128.127.89,443,BG,DA International Group Ltd
 78.128.127.93,443,BG,DA International Group Ltd
@@ -6210,17 +5877,19 @@
 78.129.212.50,443,GB,IOMART MANAGED SERVICES LIMITED
 78.129.253.115,443,GB,IOMART MANAGED SERVICES LIMITED
 78.129.253.144,443,GB,IOMART MANAGED SERVICES LIMITED
-78.129.253.148,443,GB,Virgin Media Limited
-78.129.253.149,443,GB,Virgin Media Limited
-78.129.253.151,443,GB,IP pools
+78.129.253.148,443,GB,WHITCHURCH
+78.129.253.149,443,GB,WHITCHURCH
+78.129.253.151,443,GB,BT CENTRAL PLUS
 78.129.253.152,443,DE,DigitalOcean LLC
 78.135.110.110,443,TR,VOYAR VERIMERKEZI TEKNOLOJILERI LTD STI
 78.141.211.179,443,NL,JW Lucasweg 35
 78.141.219.233,443,NL,JW Lucasweg 35
+78.142.195.227,443,NL,xTom GmbH
 78.142.230.231,8443,NL,Virtual Machine Solutions LLC
 78.142.230.76,443,NL,Virtual Machine Solutions LLC
 78.153.131.114,443,LT,GLOBAL CONNECTIVITY SOLUTIONS LLP
 78.153.131.52,443,LT,GLOBAL CONNECTIVITY SOLUTIONS LLP
+78.153.136.158,443,FR,Aeza International LTD
 78.153.136.188,443,DE,Aeza International LTD
 78.153.136.254,2053,DE,Aeza International LTD
 78.153.136.254,8443,DE,Aeza International LTD
@@ -6271,31 +5940,32 @@
 78.47.203.106,2053,DE,Hetzner Online GmbH
 78.47.203.106,8443,DE,Hetzner Online GmbH
 78.47.208.152,443,DE,Hetzner Online GmbH
-78.47.225.115,2053,DE,Hetzner Online GmbH
 79.110.48.75,443,FI,Individual Entrepreneur Anton Levin
 79.110.53.131,443,US,M247 Ltd Las Vegas
 79.110.55.201,20205,KR,Cloudflare Inc
-79.110.55.201,443,KR,Cloudflare London LLC
-79.110.55.202,74,KR,Cloudflare Inc
-79.110.55.203,20205,KR,Cloudflare Inc
-79.110.55.203,74,KR,Cloudflare London LLC
-79.110.55.212,20205,KR,Cloudflare London LLC
-79.110.55.212,443,KR,Cloudflare Inc
+79.110.55.201,443,KR,Cloudflare Inc
+79.110.55.201,74,KR,Cloudflare London LLC
+79.110.55.202,20205,KR,Cloudflare Inc
+79.110.55.202,74,KR,Cloudflare London LLC
+79.110.55.203,20205,KR,Cloudflare London LLC
+79.110.55.203,74,KR,Cloudflare Inc
+79.110.55.212,20205,KR,Cloudflare Inc
+79.110.55.212,443,KR,Cloudflare London LLC
 79.110.55.212,74,KR,Cloudflare Inc
-79.110.55.213,20205,KR,Cloudflare Inc
+79.110.55.213,20205,KR,Cloudflare London LLC
 79.110.55.213,443,KR,Cloudflare London LLC
-79.110.55.213,74,KR,Cloudflare London LLC
-79.124.7.236,444,BG,DA International Group Ltd  AlphaVPS
+79.110.55.213,74,KR,Cloudflare Inc
+79.124.7.236,444,BG,Lirbg EOOD
 79.132.137.132,443,NL,wwwfornexcom Fornex Hosting SL
 79.132.137.58,2053,NL,wwwfornexcom Fornex Hosting SL
 79.132.137.58,8443,NL,wwwfornexcom Fornex Hosting SL
 79.132.138.18,443,DE,Fornex Hosting SL
-79.132.138.87,443,DE,Fornex Hosting SL
+79.132.138.87,443,DE,wwwfornexcom Fornex Hosting SL
 79.132.139.128,443,NL,wwwfornexcom Fornex Hosting SL
 79.132.139.30,443,NL,wwwfornexcom Fornex Hosting SL
 79.132.139.52,443,NL,wwwfornexcom Fornex Hosting SL
 79.132.140.76,443,DE,wwwfornexcom Fornex Hosting SL
-79.132.141.152,443,CH,wwwfornexcom Fornex Hosting SL
+79.132.141.152,443,CH,Datasource AG
 79.132.141.190,443,CH,Datasource AG
 79.132.142.62,2053,DE,wwwfornexcom Fornex Hosting SL
 79.132.142.62,8443,DE,wwwfornexcom Fornex Hosting SL
@@ -6322,8 +5992,10 @@
 79.137.196.210,2086,NL,Aeza International LTD
 79.137.196.22,2053,DE,Aeza International LTD
 79.137.196.22,8443,DE,Aeza International LTD
+79.137.196.233,443,NL,Aeza International LTD
 79.137.196.238,443,NL,Aeza International LTD
 79.137.196.8,443,NL,Aeza International LTD
+79.137.197.252,443,RU,Aeza International LTD
 79.137.198.147,2053,DE,Aeza International LTD
 79.137.198.151,4433,DE,Aeza International LTD
 79.137.198.194,8443,NL,Aeza International LTD
@@ -6379,6 +6051,7 @@
 80.209.242.156,8443,US,HOSTKEY
 80.209.242.177,2053,US,HOSTKEY
 80.209.242.177,8443,US,HOSTKEY
+80.209.242.199,443,US,HOSTKEY
 80.209.242.70,2053,US,HOSTKEY
 80.209.243.159,443,US,HOSTKEY
 80.209.243.168,443,US,HOSTKEY
@@ -6402,8 +6075,7 @@
 80.211.250.20,8443,PL,Aruba SpA  Cloud Services PL1
 80.211.48.113,443,IT,Aruba SpA  Cloud Services DC1
 80.233.248.56,2053,LV,PostMet Ltd
-80.240.18.157,8443,DE,The Constant Company LLC
-80.240.23.230,8443,DE,Vultr Holdings LLC
+80.240.23.230,8443,DE,Hanauer Landstrae 302
 80.240.25.196,8443,DE,Vultr Holdings LLC
 80.240.29.169,8443,DE,Hanauer Landstrae 302
 80.242.56.161,2053,NL,TimewebCloud LLC
@@ -6429,7 +6101,6 @@
 80.66.85.214,443,DE,hostesio
 80.66.85.52,2053,DE,Germany Frankfurt
 80.66.85.52,8443,DE,Germany Frankfurt
-80.66.87.174,587,DE,nuxtcloud hosting provider
 80.66.87.223,2053,DE,nuxtcloud hosting provider
 80.66.87.223,8443,DE,nuxtcloud hosting provider
 80.66.87.77,8443,DE,nuxtcloud hosting provider
@@ -6475,7 +6146,7 @@
 80.76.34.64,443,NL,FIRST SERVER LIMITED
 80.76.35.73,443,NL,FIRST SERVER LIMITED
 80.76.35.90,443,NL,FIRST SERVER LIMITED
-80.77.25.142,443,EE,servingacom  Estonia
+80.77.25.142,443,EE,servinga GmbH
 80.78.247.164,8443,RU,RegRu Hosting
 80.79.114.182,443,EE,Aktsiaselts WaveCom
 80.79.121.46,443,EE,Aktsiaselts WaveCom
@@ -6514,7 +6185,6 @@
 80.92.204.183,443,DE,WorkTitans BV
 80.92.204.228,443,DE,WorkTitans BV
 80.92.204.246,443,DE,WorkTitans BV
-80.92.204.45,443,DE,WorkTitans BV
 80.92.204.70,443,DE,WorkTitans BV
 80.92.206.138,443,NL,WorkTitans BV
 80.92.206.228,443,NL,WorkTitans BV
@@ -6556,7 +6226,6 @@
 81.22.132.245,443,NL,Internet Utilities Europe and Asia Limited
 81.22.132.254,443,NL,Internet Utilities Europe and Asia Limited
 81.22.132.3,443,NL,Internet Utilities Europe and Asia Limited
-81.22.132.44,443,NL,Internet Utilities Europe and Asia Limited
 81.22.132.47,443,NL,Internet Utilities Europe and Asia Limited
 81.31.244.144,443,NL,Timeweb LLP
 81.31.244.213,2053,NL,Timeweb LLP
@@ -6591,7 +6260,6 @@
 82.115.7.107,443,NL,SIA VEESP
 82.115.7.131,443,NL,SIA VEESP
 82.115.7.15,6000,NL,SIA VEESP
-82.115.8.26,8443,SE,BitCommand LLC
 82.117.243.216,443,NL,IROKO Networks Corporation
 82.117.243.82,443,NL,IROKO Networks Corporation
 82.117.245.125,2053,DE,Witine Limited
@@ -6726,6 +6394,7 @@
 83.147.252.5,2053,FI,Smart Digital Ideas DOO
 83.147.252.5,8443,FI,Smart Digital Ideas DOO
 83.147.252.6,443,FI,Aeza International LTD
+83.147.252.76,443,FI,Aeza International LTD
 83.147.252.80,443,GB,Aeza International LTD
 83.147.252.92,443,GB,Aeza International LTD
 83.147.252.97,443,FI,Aeza International LTD
@@ -6761,7 +6430,6 @@
 83.147.254.245,443,SE,Aeza International LTD
 83.147.254.36,443,SE,Aeza International LTD
 83.147.254.39,443,SE,Aeza International LTD
-83.147.254.43,443,SE,Aeza International LTD
 83.147.254.60,8443,SE,Aeza International LTD
 83.147.254.62,443,SE,Aeza International LTD
 83.147.254.63,443,SE,Aeza International LTD
@@ -6774,6 +6442,8 @@
 83.147.254.93,443,SE,Aeza International LTD
 83.147.254.95,443,SE,Aeza International LTD
 83.147.255.67,8443,RU,AEZA GROUP Ltd
+83.147.255.70,443,RU,AEZA GROUP Ltd
+83.166.239.70,443,RU,VK Cloud Solutions
 83.168.110.174,443,PL,Virtual Private Server
 83.217.210.247,8443,EE,Baykov Ilya Sergeevich
 83.217.210.42,443,EE,Baykov Ilya Sergeevich
@@ -6801,6 +6471,7 @@
 83.222.21.239,443,LV,Beget LLC
 83.222.22.61,2053,KZ,Beget LLC
 83.229.123.194,35134,HK,LUCIDACLOUD LIMITED
+83.229.82.124,8443,NL,OMC COMPUTERS  COMMUNICATIONS LTD
 83.229.84.181,443,DE,OMC COMPUTERS  COMMUNICATIONS LTD
 83.229.87.63,443,DE,OMC COMPUTERS  COMMUNICATIONS LTD
 83.229.87.70,587,DE,OMC COMPUTERS  COMMUNICATIONS LTD
@@ -6810,6 +6481,7 @@
 83.97.77.63,2053,KZ,Webstudio Onelab LLP
 83.97.77.63,8443,KZ,Webstudio Onelab LLP
 84.19.3.195,443,FI,Individual Entrepreneur Anton Levin
+84.19.3.48,443,FI,Individual Entrepreneur Anton Levin
 84.19.3.70,443,FI,Individual Entrepreneur Anton Levin
 84.19.3.71,443,FI,Individual Entrepreneur Anton Levin
 84.19.3.83,443,FI,Individual Entrepreneur Anton Levin
@@ -6840,6 +6512,7 @@
 84.252.73.78,443,RU,FIRST SERVER LIMITED
 84.252.74.134,2053,RU,FIRST SERVER LIMITED
 84.252.74.134,8443,RU,FIRST SERVER LIMITED
+84.253.122.138,2053,RU,PJSC Rostelecom
 84.253.122.138,8443,RU,PJSC Rostelecom
 84.32.186.242,443,NL,UAB Nacionalinis Telekomunikaciju Tinklas
 84.32.230.201,443,TR,Private Customer
@@ -6847,6 +6520,7 @@
 84.32.44.21,2083,US,Hosteons Pte Ltd
 84.32.44.80,443,US,Hosteons Pte Ltd
 84.38.182.193,443,RU,Selectel Network
+84.8.145.58,443,GB,Oracle Svenska AB
 85.10.198.99,443,DE,Hetzner Online AG
 85.10.207.49,2083,DE,HOS47115
 85.10.207.49,443,DE,HOS47115
@@ -6863,9 +6537,7 @@
 85.10.253.205,443,DE,HOS573331
 85.114.138.9,2087,DE,webtropia dedicated Server by httpwwwwebtropiacom
 85.133.201.71,443,DE,Hetzner Online GmbH
-85.133.204.98,443,DE,Hetzner Online GmbH
 85.133.238.117,443,DE,Hetzner Online GmbH
-85.133.238.66,443,DE,Hetzner Online GmbH
 85.133.240.169,2096,DE,DigitalOcean LLC
 85.159.226.183,2053,DE,LLC POWERNET
 85.159.228.50,8443,LV,GLOBAL CONNECTIVITY SOLUTIONS LLP
@@ -6882,11 +6554,10 @@
 85.192.25.212,443,GB,Aeza International LTD
 85.192.25.231,443,FI,Aeza International LTD
 85.192.25.96,443,FI,Aeza International LTD
-85.192.26.156,443,NL,Aeza International LTD
+85.192.26.110,443,RU,Aeza International LTD
 85.192.26.199,443,NL,Aeza International LTD
 85.192.26.210,2053,DE,Aeza International LTD
 85.192.27.108,443,AT,Aeza International LTD
-85.192.27.165,443,AT,Aeza International LTD
 85.192.27.167,443,DE,Aeza International LTD
 85.192.28.180,443,DE,Aeza International LTD
 85.192.28.217,2053,DE,Aeza International LTD
@@ -6908,8 +6579,8 @@
 85.192.41.169,2053,NL,Aeza International LTD
 85.192.41.169,8443,NL,Aeza International LTD
 85.192.41.186,443,NL,Aeza International LTD
-85.192.41.37,2053,DE,AEZA GROUP Ltd
 85.192.41.37,8443,DE,AEZA GROUP Ltd
+85.192.41.73,443,NL,Aeza International LTD
 85.192.42.17,2053,DE,Aeza International LTD
 85.192.42.17,8443,DE,Aeza International LTD
 85.192.42.41,443,AT,Aeza International LTD
@@ -6939,6 +6610,7 @@
 85.192.63.123,2053,DE,AEZA GROUP Ltd
 85.192.63.232,2053,DE,AEZA GROUP Ltd
 85.192.63.232,8443,DE,AEZA GROUP Ltd
+85.192.63.253,443,DE,Aeza International LTD
 85.193.90.131,2053,RU,JSC TIMEWEB
 85.193.90.131,8443,RU,JSC TIMEWEB
 85.193.91.193,2053,RU,JSC TIMEWEB
@@ -6953,7 +6625,6 @@
 85.198.109.141,443,RU,Hosting technology LTD
 85.198.109.79,2053,RU,Hosting technology LTD
 85.198.109.79,8443,RU,Hosting technology LTD
-85.198.11.18,8899,DE,Hetzner Online GmbH
 85.202.193.54,2053,KZ,PS Internet Company LLP
 85.202.193.54,8443,KZ,PS Internet Company LLP
 85.203.39.55,443,LV,EstNOCGlobal
@@ -6962,6 +6633,7 @@
 85.208.108.71,443,CA,WorkTitans BV
 85.208.110.56,2053,NL,WorkTitans BV
 85.208.110.56,8443,NL,WorkTitans BV
+85.208.110.71,8443,NL,WorkTitans BV
 85.208.139.108,443,DE,HOST TELECOM LTD
 85.208.139.167,443,DE,HOST TELECOM LTD
 85.208.139.48,443,DE,HOST TELECOM LTD
@@ -6987,7 +6659,6 @@
 85.234.107.140,8443,NL,Timeweb LLP
 85.235.205.201,443,RU,SPRINTHOSTRU LLC
 85.235.65.121,443,DE,netcup GmbH
-85.236.242.36,443,AT,Cable Customers
 85.237.211.59,2053,AE,Private Customer
 85.237.211.59,8443,AE,Private Customer
 85.239.144.146,443,SE,Aeza International LTD
@@ -7018,7 +6689,6 @@
 85.9.201.35,443,DE,UpCloud Cloud Servers
 85.9.209.194,443,NL,UpCloud Ltd
 85.90.196.11,443,RO,GREEN FLOID LLC
-85.90.207.142,8443,AM,GCore Labs SA
 85.90.207.206,443,AM,GCore Labs SA
 85.90.207.254,8443,AM,GCore Labs Customer assignment
 85.90.208.134,443,FI,IROKO Networks Corporation
@@ -7047,6 +6717,7 @@
 87.106.141.152,8443,DE,IONOS SE
 87.106.39.39,443,DE,IONOS SE
 87.106.65.110,443,GB,IONOS SE
+87.107.104.140,443,US,888 Ventures LLC
 87.107.54.78,4343,IR,ParsShabakehAzarakhsh
 87.117.205.16,443,GB,RapidSwitch Ltd
 87.117.247.27,443,GB,IOMART MANAGED SERVICES LIMITED
@@ -7111,8 +6782,9 @@
 87.251.77.76,443,DE,Cloud Hosting Solutions Limited
 87.251.79.180,8443,US,Huize Holdings LLC
 87.251.86.199,443,DE,nuxtcloud hosting provider
+87.251.87.111,443,DE,nuxtcloud hosting provider
 87.251.87.124,443,DE,nuxtcloud hosting provider
-87.251.87.205,443,DE,nuxtcloud hosting provider
+87.251.87.157,443,DE,nuxtcloud hosting provider
 87.251.87.36,443,DE,nuxtcloud hosting provider
 87.251.88.104,2053,DE,Cloud Hosting Solutions Limited
 87.251.88.104,8443,DE,Cloud Hosting Solutions Limited
@@ -7535,10 +7207,10 @@
 89.169.52.150,443,DE,Aeza International LTD
 89.169.52.156,443,DE,Aeza International LTD
 89.169.53.213,8443,DE,Aeza International LTD
-89.169.53.53,443,DE,Aeza International LTD
 89.169.54.114,443,DE,Aeza International LTD
 89.169.54.138,443,DE,Aeza International LTD
 89.169.54.16,8443,DE,Aeza International LTD
+89.169.54.35,443,DE,Aeza International LTD
 89.169.54.66,443,DE,Aeza International LTD
 89.169.6.114,2053,DE,Medvedev Vladislav Olegovich
 89.169.6.114,8443,DE,Medvedev Vladislav Olegovich
@@ -7615,13 +7287,11 @@
 89.208.250.204,28268,US,Cluster Logic Inc
 89.208.253.100,443,US,Cluster Logic Inc
 89.208.96.101,443,DE,Aeza International LTD
-89.208.96.130,443,DE,Aeza International LTD
 89.208.96.162,443,DE,Aeza International LTD
 89.208.96.226,2053,DE,Aeza International LTD
 89.208.96.26,443,DE,Aeza International LTD
 89.208.96.88,443,DE,Aeza International LTD
 89.208.97.151,443,RU,Aeza International LTD
-89.208.97.163,443,RU,Aeza International LTD
 89.208.97.213,2053,DE,Aeza International LTD
 89.208.97.213,8443,DE,Aeza International LTD
 89.208.97.224,2053,DE,Aeza International LTD
@@ -7649,6 +7319,7 @@
 89.22.229.87,443,SE,Aeza International LTD
 89.22.230.197,443,SE,Aeza International LTD
 89.22.230.42,443,RU,Aeza International LTD
+89.22.231.170,443,SE,Aeza International LTD
 89.22.231.170,8443,SE,Aeza International LTD
 89.22.231.195,443,SE,Aeza International LTD
 89.22.231.222,443,SE,Aeza International LTD
@@ -7760,7 +7431,6 @@
 89.46.42.187,443,SK,VPS1 in Slovakia
 89.47.113.110,2096,TR,Private Customer
 89.47.162.4,443,LT,UAB Interneto vizija
-89.47.200.238,443,DE,Hetzner Online GmbH
 89.58.13.151,1010,DE,netcup GmbH
 89.58.13.151,2010,DE,netcup GmbH
 89.58.13.3,8443,DE,netcup GmbH
@@ -7836,7 +7506,6 @@
 91.107.132.190,2020,DE,Hetzner Online GmbH
 91.107.132.7,2087,DE,Hetzner Online GmbH
 91.107.133.147,443,DE,Hetzner Online GmbH
-91.107.133.205,443,DE,Hetzner Online GmbH
 91.107.133.41,2087,DE,Hetzner Online GmbH
 91.107.134.186,2083,DE,Hetzner Online GmbH
 91.107.134.254,36521,DE,Hetzner Online GmbH
@@ -8217,7 +7886,6 @@
 91.215.154.136,443,BG,Friendhosting LTD
 91.215.154.48,443,BG,Friendhosting LTD
 91.215.155.140,443,BG,Friendhosting LTD
-91.216.104.80,443,TR,Deployish Limited
 91.217.76.147,2053,FI,FIRST SERVER LIMITED
 91.217.76.147,8443,FI,FIRST SERVER LIMITED
 91.217.76.237,443,FI,FIRST SERVER LIMITED
@@ -8249,7 +7917,7 @@
 91.227.77.40,8443,BG,BlueVPS OU
 91.227.77.78,8443,BG,BlueVPS OU
 91.228.10.248,443,GB,WorkTitans BV
-91.228.153.248,443,DE,Fornex Hosting SL
+91.228.153.248,443,DE,wwwfornexcom Fornex Hosting SL
 91.228.153.4,443,DE,wwwfornexcom Fornex Hosting SL
 91.228.153.99,8443,DE,wwwfornexcom Fornex Hosting SL
 91.228.154.170,2053,DE,wwwfornexcom Fornex Hosting SL
@@ -8331,6 +7999,7 @@
 91.84.101.222,443,NL,Amsterdam Netherlands
 91.84.101.222,8443,NL,Amsterdam Netherlands
 91.84.101.33,443,NL,SERVERS TECH FZCO
+91.84.101.33,8443,NL,SERVERS TECH FZCO
 91.84.101.53,443,NL,SERVERS TECH FZCO
 91.84.101.53,8443,NL,SERVERS TECH FZCO
 91.84.101.56,443,NL,SERVERS TECH FZCO
@@ -8515,6 +8184,7 @@
 91.99.183.206,2053,DE,Hetzner Online GmbH
 91.99.184.147,2083,DE,Hetzner Online GmbH
 91.99.186.120,2053,DE,Hetzner Online GmbH
+91.99.188.49,8443,DE,Hetzner Online GmbH
 91.99.193.84,2053,DE,Hetzner Online GmbH
 91.99.207.250,443,DE,Hetzner Online GmbH
 91.99.227.218,443,DE,Hetzner Online GmbH
@@ -8656,8 +8326,6 @@
 93.114.133.159,443,GB,MVPS LTD
 93.115.10.218,2053,TR,ibrahim tufek
 93.115.10.218,8443,TR,ibrahim tufek
-93.115.10.237,2053,TR,ibrahim tufek
-93.115.10.237,8443,TR,ibrahim tufek
 93.115.16.24,2053,NL,MVPS LTD
 93.115.16.24,8443,NL,MVPS LTD
 93.115.175.140,2053,DE,Cloud Hosting Solutions Limited
@@ -8777,8 +8445,6 @@
 93.185.163.198,8105,DE,dataforest GmbH
 93.185.163.204,2087,NL,Gijsbertus Henricus van Gemert trading as DutchIS
 93.185.163.204,8103,NL,Gijsbertus Henricus van Gemert trading as DutchIS
-93.185.163.205,2087,NL,Gijsbertus Henricus van Gemert trading as DutchIS
-93.185.163.205,8104,NL,Gijsbertus Henricus van Gemert trading as DutchIS
 93.185.163.208,2087,NL,Gijsbertus Henricus van Gemert trading as DutchIS
 93.185.163.208,8105,NL,Gijsbertus Henricus van Gemert trading as DutchIS
 93.185.163.220,1010,DE,netcup GmbH
@@ -8897,7 +8563,7 @@
 94.142.138.192,8443,FI,Hypercore Ltd
 94.142.138.198,443,FI,Aeza International LTD
 94.142.138.200,443,FI,Aeza International LTD
-94.142.138.205,443,FI,Aeza International LTD
+94.142.138.205,443,FI,Hypercore Ltd
 94.142.138.29,443,FI,Aeza International LTD
 94.142.138.74,443,RU,Aeza International LTD
 94.142.138.9,443,GB,Aeza International LTD
@@ -8946,7 +8612,6 @@
 94.159.104.23,443,DE,H2NEXUS LTD
 94.159.104.237,443,DE,H2NEXUS LTD
 94.159.105.148,443,DE,H2NEXUS LTD
-94.159.105.19,8443,DE,H2NEXUS Frankfurt Network
 94.159.105.204,443,DE,H2NEXUS LTD
 94.159.105.212,443,DE,H2NEXUS LTD
 94.159.105.219,443,DE,H2NEXUS LTD
@@ -9208,7 +8873,6 @@
 94.232.244.165,443,NL,WorkTitans BV
 94.232.244.198,8443,NL,WorkTitans BV
 94.232.245.140,443,NL,WorkTitans BV
-94.232.245.163,443,NL,WorkTitans BV
 94.237.105.165,443,FI,UpCloud Cloud Servers
 94.237.114.26,443,FI,UpCloud Cloud Servers
 94.237.33.207,443,FI,UpCloud Cloud Servers
@@ -9273,8 +8937,6 @@
 95.164.114.217,443,KZ,WorkTitans BV
 95.164.114.41,2053,KZ,WorkTitans BV
 95.164.114.41,8443,KZ,WorkTitans BV
-95.164.114.50,2053,KZ,WorkTitans BV
-95.164.114.50,8443,KZ,WorkTitans BV
 95.164.123.143,443,DE,QWINS Hosting
 95.164.17.102,443,NL,WorkTitans BV
 95.164.18.132,81,GB,WorkTitans BV
@@ -9302,8 +8964,6 @@
 95.164.89.124,2053,DE,WorkTitans BV
 95.164.89.124,8443,DE,WorkTitans BV
 95.164.90.133,443,PL,Netassist Limited
-95.168.161.75,444,NL,LeaseWeb Netherlands BV
-95.168.174.248,443,NL,LeaseWeb Netherlands BV
 95.169.162.229,2053,PL,IPXO 95 169 162
 95.169.162.229,8443,PL,IPXO 95 169 162
 95.169.162.73,2053,PL,IPXO 95 169 162
@@ -9329,10 +8989,10 @@
 95.179.189.0,2053,NL,JW Lucasweg 35
 95.179.189.0,8443,NL,JW Lucasweg 35
 95.179.228.112,443,GB,11 Hanbury St
-95.179.228.147,8443,GB,11 Hanbury St
+95.179.228.147,8443,GB,Vultr Holdings LLC
 95.179.236.51,443,GB,11 Hanbury St
 95.179.250.68,443,DE,Vultr Holdings LLC
-95.179.251.58,8443,DE,Hanauer Landstrae 302
+95.179.251.58,8443,DE,Vultr Holdings LLC
 95.179.252.23,8443,DE,Vultr Holdings LLC
 95.181.151.172,443,DE,nuxtcloud hosting provider
 95.181.151.44,8443,DE,nuxtcloud hosting provider
@@ -9429,7 +9089,7 @@
 95.216.146.246,8443,FI,Hetzner Online GmbH
 95.216.148.189,2053,FI,Hetzner Online GmbH
 95.216.148.189,8443,FI,Hetzner Online GmbH
-95.216.150.8,8443,FI,Hetzner Online GmbH
+95.216.150.8,2053,FI,Hetzner Online GmbH
 95.216.155.193,2053,FI,Hetzner Online GmbH
 95.216.155.193,8443,FI,Hetzner Online GmbH
 95.216.168.240,2053,FI,Hetzner Online GmbH
@@ -9474,7 +9134,6 @@
 95.46.1.22,8443,RU,Stolica Telecom Ltd
 95.47.138.133,443,NL,Serverel Inc
 95.81.113.186,443,FI,PSERVERS Enterprise Network
-95.85.12.153,443,NL,DigitalOcean LLC
 95.85.89.70,81,ES,GCore Labs Customer assignment
 95.85.93.180,443,US,GCore Labs Customer assignment
 95.86.15.227,22103,MK,INEL TEHNIK DOOEL
@@ -9497,11 +9156,11 @@
 98.70.151.163,443,IN,Microsoft Corporation
 98.70.26.236,443,IN,Microsoft Corporation
 98.98.79.196,443,US,Cloudflare London LLC
-98.98.79.197,443,US,Cloudflare London LLC
+98.98.79.197,443,US,Cloudflare Inc
 98.98.79.198,443,US,Cloudflare London LLC
-98.98.79.215,443,US,Cloudflare Inc
-98.98.79.216,443,US,Cloudflare Inc
-98.98.79.236,443,US,Cloudflare Inc
+98.98.79.215,443,US,Cloudflare London LLC
+98.98.79.216,443,US,Cloudflare London LLC
+98.98.79.236,443,US,Cloudflare London LLC
 100.21.232.129,9997,US,Amazoncom Inc
 101.126.13.70,8443,CN,Beijing Volcano Engine Technology Co Ltd
 101.132.172.172,10443,SG,Alibaba Cloud LLC
@@ -9516,7 +9175,6 @@
 101.99.75.125,443,NL,None
 102.130.120.40,443,ZA,Light Bridge Internet Pty Ltd
 102.134.55.53,20082,HK,Telkom SA Ltd
-102.210.243.7,443,ZA,Light Bridge Internet Pty Ltd
 102.212.244.145,443,KE,Cloudpap VM and Managed Apps
 102.214.69.26,2053,KE,Servercore Africa Ltd
 102.214.69.26,8443,KE,Servercore Africa Ltd
@@ -9544,6 +9202,7 @@
 103.113.71.213,2053,DE,WorkTitans BV
 103.115.253.253,443,BD,Star Internet Service
 103.117.151.111,2053,TH,ReadyIDC COLTD
+103.121.48.153,443,DE,INTERKVM HOST SRL
 103.124.105.222,443,US,Hosteonscom
 103.125.216.22,1234,JP,VPSServercom 24 block for Tokyo location
 103.125.216.22,8443,JP,VPSServercom 24 block for Tokyo location
@@ -9580,6 +9239,7 @@
 103.210.22.199,443,HK,Ucloud Hong Kong
 103.214.109.66,443,US,End of Reality LLC
 103.214.109.69,443,US,End of Reality LLC
+103.214.109.70,443,US,End of Reality LLC
 103.214.6.90,443,NL,HostSlim BV
 103.219.194.233,30005,HK,BAGE CLOUD LLC
 103.219.194.43,443,HK,BAGE CLOUD LLC
@@ -9750,7 +9410,6 @@
 103.90.75.121,443,NL,CLODO CLOUD SERVICE CO LLC
 103.90.75.141,2053,NL,CLODO CLOUD SERVICE CO LLC
 103.90.75.163,2053,NL,CLODO CLOUD SERVICE CO LLC
-103.90.75.195,443,NL,CLODO CLOUD SERVICE CO LLC
 103.90.75.41,2053,NL,CLODO CLOUD SERVICE CO LLC
 103.90.75.41,8443,NL,CLODO CLOUD SERVICE CO LLC
 103.97.88.103,2053,NL,Melbikomas UAB
@@ -9767,7 +9426,7 @@
 103.97.88.91,8443,NL,Melbikomas UAB
 103.99.11.193,2053,TH,ReadyIDC COLTD
 103.99.11.193,8443,TH,ReadyIDC COLTD
-104.128.190.120,443,GB,SAB001
+104.128.190.120,443,GB,365 Group LLC
 104.128.190.209,443,GB,SAB001
 104.129.181.152,443,CA,Cluster Logic Inc
 104.156.140.138,443,US,RackNerd LLC
@@ -9805,6 +9464,7 @@
 104.168.82.140,8443,US,RackNerd LLC
 104.168.87.41,16443,US,RackNerd LLC
 104.168.87.70,443,US,RackNerd LLC
+104.168.88.47,8443,US,RackNerd LLC
 104.194.130.209,2053,GB,RouterHosting LLC
 104.194.130.209,8443,GB,RouterHosting LLC
 104.194.132.44,443,NL,RouterHosting LLC
@@ -9826,9 +9486,10 @@
 104.224.153.46,443,US,IT7 Networks Inc
 104.224.157.81,443,US,IT7 Networks Inc
 104.224.158.96,443,US,IT7 Networks Inc
+104.224.167.96,443,US,IT7 Networks Inc
 104.224.181.22,443,US,IT7 Networks Inc
 104.225.153.70,443,US,Cluster Logic Inc
-104.225.235.38,443,US,Cluster Logic Inc
+104.225.159.159,443,US,Cluster Logic Inc
 104.234.151.10,8443,SG,MoeChuang Network Limited
 104.234.36.246,443,US,Hurricane Electric LLC
 104.234.36.27,33388,US,Virtual Machine Solutions LLC
@@ -9847,7 +9508,6 @@
 104.234.50.59,2053,US,Private Customer
 104.234.50.69,2053,US,Private Customer
 104.234.50.97,2053,US,Private Customer
-104.234.61.49,443,US,Virtual Machine Solutions LLC
 104.237.250.13,443,US,DedFiberCo
 104.238.170.163,2053,GB,Vultr Holdings LLC
 104.238.170.163,8443,GB,Vultr Holdings LLC
@@ -9871,7 +9531,6 @@
 104.249.40.126,443,NL,Individual Entrepreneur Anton Levin
 104.249.40.134,443,NL,Individual Entrepreneur Anton Levin
 104.249.40.144,443,NL,Individual Entrepreneur Anton Levin
-104.249.40.214,2053,NL,Individual Entrepreneur Anton Levin
 104.249.40.219,443,NL,Individual Entrepreneur Anton Levin
 104.249.40.28,443,NL,Individual Entrepreneur Anton Levin
 104.249.40.77,2053,NL,Individual Entrepreneur Anton Levin
@@ -9907,11 +9566,11 @@
 107.150.34.99,443,US,eeqiunet
 107.150.34.99,8443,US,eeqiunet
 107.151.182.200,443,US,Cloudflare London LLC
-107.151.182.215,443,US,Cloudflare London LLC
+107.151.182.215,443,US,Cloudflare Inc
 107.151.182.216,443,US,Cloudflare London LLC
 107.151.182.235,443,US,Cloudflare London LLC
-107.151.182.236,443,US,Cloudflare London LLC
-107.151.182.253,443,US,Cloudflare Inc
+107.151.182.236,443,US,Cloudflare Inc
+107.151.182.253,443,US,Cloudflare London LLC
 107.161.154.177,443,DE,SEBEK sp z oo
 107.161.154.182,2053,DE,SEBEK sp z oo
 107.161.154.182,8443,DE,SEBEK sp z oo
@@ -9942,6 +9601,7 @@
 107.172.216.84,2096,US,RackNerd LLC
 107.172.218.244,47452,US,RackNerd LLC
 107.172.43.162,443,US,RackNerd LLC
+107.172.87.247,443,US,RackNerd LLC
 107.172.95.232,443,US,RackNerd LLC
 107.172.97.143,50150,US,RackNerd LLC
 107.173.146.70,443,US,RackNerd LLC
@@ -9961,6 +9621,7 @@
 107.173.34.130,8443,US,RackNerd LLC
 107.173.80.146,2059,US,RackNerd LLC
 107.173.80.146,8443,US,RackNerd LLC
+107.173.86.106,443,US,HostPapa
 107.173.87.79,8443,US,RackNerd LLC
 107.174.107.239,443,US,RackNerd LLC
 107.174.121.122,443,US,RackNerd LLC
@@ -9988,8 +9649,6 @@
 107.175.193.164,2053,NL,HostPapa
 107.175.193.164,2096,NL,HostPapa
 107.175.194.31,443,US,RackNerd LLC
-107.175.206.50,443,US,RackNerd LLC
-107.175.219.216,443,US,RackNerd LLC
 107.175.245.116,2053,US,RackNerd LLC
 107.175.245.116,8443,US,RackNerd LLC
 107.175.245.241,8443,US,RackNerd LLC
@@ -9998,7 +9657,6 @@
 107.175.35.49,443,US,Cloudflare London LLC
 107.175.93.224,443,US,HostPapa
 107.182.179.27,2443,US,IT7 Networks Inc
-107.189.12.152,443,CH,FranTech Solutions
 107.189.13.168,2053,CH,FranTech Solutions
 107.189.16.7,443,NL,RouterHosting LLC
 107.189.17.120,443,NL,RouterHosting LLC
@@ -10010,9 +9668,11 @@
 108.174.60.33,443,US,RackNerd LLC
 108.174.61.161,38712,US,Hurricane Electric LLC
 108.174.61.161,59581,US,RackNerd LLC
+108.211.108.159,443,US,ATT Enterprises LLC
 108.61.170.114,443,DE,Vultr Holdings LLC
 108.61.201.87,8443,JP,Vultr Holdings LLC
 108.61.211.231,8443,DE,The Constant Company LLC
+108.61.78.49,443,US,Vultr Holdings LLC
 109.104.153.94,443,NL,oneprovidercom  Amsterdam Infrastructure
 109.106.244.158,443,NL,Hostinger International Limited
 109.107.159.106,443,GB,GCore Labs SA
@@ -10040,6 +9700,7 @@
 109.107.178.184,443,NL,Amsterdam Netherlands
 109.107.181.14,443,DE,Aeza International LTD
 109.107.181.161,443,DE,Aeza International LTD
+109.107.181.166,443,RU,Aeza International LTD
 109.107.181.81,443,DE,Aeza International LTD
 109.107.184.253,443,NL,Amsterdam Netherlands
 109.107.185.106,2053,NL,Amsterdam Netherlands
@@ -10062,6 +9723,7 @@
 109.120.133.132,2053,SE,Aeza International LTD
 109.120.133.132,8443,SE,Aeza International LTD
 109.120.133.144,443,SE,Aeza International LTD
+109.120.133.56,443,SE,Aeza International LTD
 109.120.133.71,2053,SE,Aeza International LTD
 109.120.133.71,8443,SE,Aeza International LTD
 109.120.134.11,443,SE,Aeza International LTD
@@ -10096,6 +9758,7 @@
 109.120.154.236,2087,NL,Iron Hosting Centre LTD
 109.120.155.135,443,SE,Aeza International LTD
 109.120.156.97,2053,SE,Aeza International LTD
+109.120.156.97,8443,SE,Aeza International LTD
 109.120.157.197,8443,SE,Aeza International LTD
 109.120.157.250,443,SE,Aeza International LTD
 109.120.157.29,443,SE,Aeza International LTD
@@ -10206,6 +9869,8 @@
 109.237.97.197,8443,DE,nuxtcloud hosting provider
 109.237.98.101,443,NL,Aeza International LTD
 109.237.98.138,443,RU,Aeza International LTD
+109.237.98.15,443,RU,Aeza International LTD
+109.237.98.193,443,RU,Aeza International LTD
 109.237.98.217,443,NL,Aeza International LTD
 109.237.98.57,443,NL,Aeza International LTD
 109.237.99.129,443,DE,Aeza International LTD
@@ -10217,7 +9882,7 @@
 109.248.162.144,2053,NL,CGI GLOBAL LIMITED
 109.248.162.144,8443,NL,CGI GLOBAL LIMITED
 109.248.162.188,443,NL,CGI GLOBAL LIMITED
-109.248.162.204,443,NL,CGI GLOBAL LIMITED
+109.248.162.204,443,NL,as56971 network
 109.248.162.47,2053,NL,CGI GLOBAL LIMITED
 109.248.162.47,8443,NL,CGI GLOBAL LIMITED
 109.248.162.61,2053,NL,CGI GLOBAL LIMITED
@@ -10260,28 +9925,11 @@
 109.92.179.156,12170,RS,Telekom Srbija ADSL users
 111.118.118.177,12399,KR,kt HCN CoLtd
 111.171.108.67,50001,KR,SK Broadband Co Ltd
-111.20.226.42,10894,CN,China Mobile Communications Corporation
-111.20.226.42,12143,CN,China Mobile Communications Corporation
-111.20.226.42,12191,CN,China Mobile Communications Corporation
-111.20.226.42,12311,CN,China Mobile Communications Corporation
-111.20.226.42,12312,CN,China Mobile Communications Corporation
-111.20.226.42,12489,CN,China Mobile Communications Corporation
-111.20.226.42,14628,CN,China Mobile Communications Corporation
-111.20.226.42,18908,CN,China Mobile Communications Corporation
-111.20.226.42,19554,CN,China Mobile Communications Corporation
-111.20.226.42,23042,CN,China Mobile Communications Corporation
-111.20.226.42,24830,CN,China Mobile Communications Corporation
-111.20.226.42,25836,CN,China Mobile Communications Corporation
-111.20.226.42,29266,CN,China Mobile Communications Corporation
 111.91.159.49,30048,KR,Korea Cable TV Kwangju Broadcasting
 112.157.160.49,50001,KR,LG POWERCOMM
 112.160.48.228,50001,KR,Korea Telecom
-112.161.221.228,12257,KR,Korea Telecom
-112.161.221.228,16097,KR,Korea Telecom
 112.161.226.144,50001,KR,Korea Telecom
 112.166.90.4,50001,KR,Korea Telecom
-112.166.95.230,50001,KR,Korea Telecom
-112.167.55.103,12334,KR,Korea Telecom
 112.184.215.199,50001,KR,Korea Telecom
 112.184.246.22,50001,KR,Korea Telecom
 112.184.94.152,50001,KR,Korea Telecom
@@ -10302,9 +9950,14 @@
 115.22.115.218,50001,KR,Korea Telecom
 115.23.196.54,50001,KR,Korea Telecom
 115.23.234.198,50001,KR,Korea Telecom
-115.40.206.235,50001,KR,LG HelloVision Corp
 115.40.240.254,37594,KR,LG HelloVision Corp
+115.40.244.240,11211,KR,LG HelloVision Corp
+115.40.244.240,12696,KR,LG HelloVision Corp
+115.40.244.240,18888,KR,LG HelloVision Corp
+115.40.244.240,23023,KR,LG HelloVision Corp
 115.86.31.87,50001,KR,LG HelloVision Corp
+115.91.178.253,50001,KR,LG DACOM Corporation
+115.93.13.212,50001,KR,LG DACOM Corporation
 115.94.122.118,50001,KR,LG DACOM Corporation
 116.122.137.81,50001,KR,SK Broadband Co Ltd
 116.202.109.49,2053,DE,Hetzner Online GmbH
@@ -10335,13 +9988,12 @@
 116.93.199.28,12136,KR,SK Broadband Co Ltd
 116.93.199.28,30012,KR,SK Broadband Co Ltd
 117.50.80.157,1234,CN,Shanghai UCloud Information Technology Company Limited
-117.54.114.103,443,ID,IndoInternet Network
 118.141.64.192,36619,HK,HGC Global Communications Limited
 118.21.134.114,12553,JP,ARTERIA Networks Corporation
 118.220.92.91,50001,KR,SK Broadband Co Ltd
+118.222.64.90,30012,KR,SK Broadband Co Ltd
 118.223.200.150,50001,KR,SK Broadband Co Ltd
 118.223.252.190,50001,KR,SK Broadband Co Ltd
-118.24.82.6,7443,CN,Tencent Cloud Computing Beijing Co Ltd
 118.27.12.40,38443,JP,GMO Internet Inc
 118.32.22.94,50001,KR,Korea Telecom
 118.34.249.127,50001,KR,Korea Telecom
@@ -10368,8 +10020,7 @@
 121.127.33.95,443,SE,Privex Inc
 121.130.68.136,50001,KR,Korea Telecom
 121.131.104.228,50001,KR,Korea Telecom
-121.137.62.90,50001,KR,Korea Telecom
-121.137.98.201,30012,KR,Korea Telecom
+121.132.235.18,50001,KR,Korea Telecom
 121.143.184.124,50001,KR,Korea Telecom
 121.147.229.1,50001,KR,Korea Telecom
 121.149.177.218,50001,KR,Korea Telecom
@@ -10385,7 +10036,6 @@
 121.187.191.193,50001,KR,Korea Telecom
 121.188.182.190,50003,KR,Korea Telecom
 121.199.63.104,443,CN,Aliyun Computing Co LTD
-121.42.46.237,14343,CN,Aliyun Computing Co LTD
 121.85.55.59,19842,JP,OPTAGE Inc
 122.2.198.74,443,PH,IPG
 122.38.116.21,50001,KR,LG POWERCOMM
@@ -10396,19 +10046,16 @@
 123.111.169.70,2096,KR,SK Broadband Co Ltd
 123.111.169.70,443,KR,SK Broadband Co Ltd
 123.111.169.70,8443,KR,SK Broadband Co Ltd
+123.111.201.248,50001,KR,SK Broadband Co Ltd
 123.142.9.101,50001,KR,LG DACOM Corporation
 123.142.93.74,50001,KR,LG DACOM Corporation
 123.143.9.5,14041,KR,LG DACOM Corporation
 123.214.83.63,20332,KR,SK Broadband Co Ltd
 123.235.49.18,29096,CA,Sympatico HSE
 123.248.97.102,50001,KR,LG HelloVision Corp
-123.52.64.247,10011,CN,CHINANET HENAN PROVINCE NETWORK
-123.52.65.161,10011,CN,CHINANET HENAN PROVINCE NETWORK
 123.52.65.206,10011,CN,CHINANET HENAN PROVINCE NETWORK
-123.52.66.70,10011,CN,CHINANET HENAN PROVINCE NETWORK
 123.52.66.97,10011,CN,CHINANET HENAN PROVINCE NETWORK
 123.52.67.143,10011,CN,CHINANET HENAN PROVINCE NETWORK
-123.52.67.150,10011,CN,CHINANET HENAN PROVINCE NETWORK
 123.52.67.42,10011,CN,CHINANET HENAN PROVINCE NETWORK
 123.58.199.241,443,VN,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
 124.156.202.172,443,SG,16 COLLYER QUAY
@@ -10416,6 +10063,7 @@
 124.160.92.115,30022,CN,HANGZHOUHANCHUANGGONGSIHANGZHOUZHEJIANG
 124.222.223.113,8443,CN,Tencent cloud computing Beijing Co Ltd
 124.55.23.158,50001,KR,LG POWERCOMM
+124.80.46.143,50001,KR,SK Broadband Co Ltd
 125.128.27.185,50001,KR,Korea Telecom
 125.132.110.104,50001,KR,Korea Telecom
 125.135.43.66,50000,KR,Korea Telecom
@@ -10461,15 +10109,13 @@
 129.146.254.25,443,US,Oracle Corporation
 129.146.46.164,443,US,Oracle Corporation
 129.146.6.2,929,US,Oracle Corporation
-129.146.7.98,443,US,Oracle Corporation
+129.146.60.210,443,US,Oracle Corporation
 129.150.35.29,587,SG,Oracle Corporation
 129.150.36.188,53435,SG,Oracle Corporation
 129.150.49.58,18650,SG,Oracle Corporation
 129.150.50.144,42956,SG,Oracle Corporation
 129.150.58.86,57621,SG,Oracle Corporation
-129.151.104.245,8443,CL,Oracle Corporation
 129.151.198.3,2053,SE,Oracle Corporation
-129.151.198.3,8443,SE,Oracle Corporation
 129.151.207.10,10003,SE,Oracle Corporation
 129.151.245.82,587,FR,Oracle Corporation
 129.152.2.127,1488,IT,Oracle Corporation
@@ -10555,6 +10201,7 @@
 132.226.207.183,8443,DE,Oracle Public Cloud
 132.226.21.116,6056,KR,Oracle Public Cloud
 132.226.23.92,22053,KR,Oracle Public Cloud
+132.226.7.217,443,JP,Oracle Public Cloud
 134.122.60.51,2083,NL,DigitalOcean LLC
 134.122.61.31,443,NL,DigitalOcean LLC
 134.122.69.91,443,DE,DigitalOcean LLC
@@ -10669,6 +10316,7 @@
 137.184.122.138,443,US,DigitalOcean LLC
 137.184.168.37,443,CA,DigitalOcean LLC
 137.74.153.15,8443,FR,Evolution Host Ltd
+137.74.198.216,8443,FR,OVH SAS
 138.124.10.195,443,DE,Baykov Ilya Sergeevich
 138.124.10.246,443,DE,Baykov Ilya Sergeevich
 138.124.10.52,80,DE,Baykov Ilya Sergeevich
@@ -10780,6 +10428,7 @@
 138.124.49.18,443,SE,Aeza International LTD
 138.124.49.56,443,SE,Aeza International LTD
 138.124.52.49,8443,NL,Aeza International LTD
+138.124.54.252,443,DE,Aeza International LTD
 138.124.55.15,443,NL,Aeza International LTD
 138.124.55.159,443,NL,Aeza International LTD
 138.124.55.232,443,NL,Aeza International LTD
@@ -10816,8 +10465,8 @@
 138.197.9.141,6000,US,DigitalOcean LLC
 138.199.147.137,8443,DE,Hetzner Online GmbH
 138.199.172.101,443,DE,Hetzner Online GmbH
-138.199.42.114,443,US,Cloudflare Inc
-138.199.42.68,443,US,Cloudflare London LLC
+138.199.42.114,443,US,Cloudflare London LLC
+138.199.42.68,443,US,Cloudflare Inc
 138.199.42.85,443,US,Cloudflare London LLC
 138.199.42.88,443,US,Cloudflare Inc
 138.199.43.139,443,US,Cloudflare London LLC
@@ -10839,7 +10488,6 @@
 138.2.48.109,26412,JP,Oracle Corporation
 138.2.49.197,587,JP,Oracle Corporation
 138.2.5.136,443,JP,Cloudflare London LLC
-138.2.50.44,26614,JP,Oracle Corporation
 138.2.59.96,10129,JP,Oracle Corporation
 138.2.64.229,443,SG,Oracle Corporation
 138.2.69.236,23334,SG,Oracle Corporation
@@ -10920,6 +10568,9 @@
 139.162.133.162,54591,DE,1391620016
 139.162.133.162,55553,DE,1391620016
 139.162.133.162,56661,DE,1391620016
+139.162.133.162,58148,DE,1391620016
+139.162.133.162,58990,DE,1391620016
+139.162.133.162,59963,DE,1391620016
 139.162.135.127,443,DE,Linode LLC
 139.162.135.146,443,DE,Linode LLC
 139.162.135.163,443,DE,Linode LLC
@@ -11014,6 +10665,7 @@
 139.180.159.133,443,SG,SGPVULTRCUST
 139.185.34.131,443,AE,Oracle Corporation
 139.185.50.5,14594,AE,Oracle Corporation
+139.28.177.32,443,DE,M247 LTD Frankfurt Infrastructure
 139.28.177.38,443,DE,Cloudflare Inc
 139.28.220.127,443,FI,ISERVERS LTD
 139.28.220.16,2053,FI,PSERVERS Enterprise Network
@@ -11038,11 +10690,9 @@
 139.60.162.211,443,US,HOSTKEY
 139.84.163.149,443,IN,Vultr Holdings LLC
 139.99.124.165,443,SG,OVH SINGAPOR DC
-139.99.237.62,443,AU,OVH Australia PTY LTD
 140.235.140.6,443,SG,Komi LLC
 140.238.158.238,443,CA,Oracle Public Cloud
 140.238.158.238,8080,CA,Oracle Public Cloud
-140.238.170.32,443,CH,Oracle Public Cloud
 140.238.2.81,587,KR,Oracle Public Cloud
 140.238.208.12,443,CH,Oracle Public Cloud
 140.238.208.210,443,CH,Oracle Public Cloud
@@ -11068,12 +10718,9 @@
 140.83.59.158,15805,JP,imported inetnum object for OCPL1
 140.83.60.81,18443,JP,imported inetnum object for OCPL1
 140.83.83.65,9872,JP,Oracle Corporation
+140.83.86.166,443,JP,imported inetnum object for OCPL1
 140.84.178.238,23010,MX,Oracle Corporation
 140.99.83.191,443,GB,Internet Utilities NA LLC
-141.101.90.104,443,US,Microsoft Corporation
-141.101.90.106,443,US,Microsoft Corporation
-141.101.90.114,443,US,Microsoft Corporation
-141.101.90.96,443,US,Microsoft Corporation
 141.105.70.114,443,RU,LLC Server v arendy
 141.11.136.167,443,US,Hurricane Electric LLC
 141.11.149.187,443,HK,AKILE LTD
@@ -11081,6 +10728,7 @@
 141.11.182.13,8080,NL,RACK400com  Netherlands Infrastructure
 141.11.184.109,2053,NL,RACK400com  Netherlands Infrastructure
 141.11.184.109,8443,NL,RACK400com  Netherlands Infrastructure
+141.11.208.77,443,US,Virtual Machine Solutions LLC
 141.11.234.233,443,US,Virtual Machine Solutions LLC
 141.11.234.238,443,US,Virtual Machine Solutions LLC
 141.11.43.124,443,SG,Private Customer
@@ -11089,8 +10737,7 @@
 141.11.45.177,443,NL,RACK400com  Netherlands Infrastructure
 141.11.86.226,8443,TW,Akari Networks Taipei
 141.11.90.10,22219,HK,Tusker Technologies Pty Ltd
-141.11.91.67,8080,HK,HYTRON NETWORK HK
-141.11.94.146,443,US,Virtual Machine Solutions LLC
+141.11.91.67,8080,HK,Tusker Technologies Pty Ltd
 141.11.95.10,18443,US,Virtual Machine Solutions LLC
 141.144.198.121,443,NL,Oracle Corporation
 141.144.198.66,443,DE,Tempest Hosting LLC
@@ -11274,7 +10921,6 @@
 141.98.169.42,8443,FI,WorkTitans BV
 141.98.197.101,11665,JP,xTom Japan Corporation
 141.98.233.117,2053,BE,GLOBAL CONNECTIVITY SOLUTIONS LLP
-141.98.233.150,443,BE,GLOBAL CONNECTIVITY SOLUTIONS LLP
 141.98.233.80,8443,BE,GLOBAL CONNECTIVITY SOLUTIONS LLP
 142.132.140.130,443,DE,Hetzner Online GmbH
 142.132.140.130,444,DE,Hetzner Online GmbH
@@ -11299,12 +10945,11 @@
 142.171.145.44,8443,US,MULTACOM CORPORATION
 142.171.146.209,443,US,MULTACOM CORPORATION
 142.171.147.243,8443,US,MULTACOM CORPORATION
-142.171.151.61,443,US,MULTACOM CORPORATION
 142.171.156.141,21182,US,MULTACOM CORPORATION
 142.171.157.98,443,US,MULTACOM CORPORATION
 142.171.163.109,443,US,MULTACOM CORPORATION
 142.171.166.116,8443,US,MULTACOM CORPORATION
-142.171.191.220,443,US,MULTACOM CORPORATION
+142.171.174.204,443,US,MULTACOM CORPORATION
 142.171.192.140,10001,US,MULTACOM CORPORATION
 142.171.202.202,33538,US,MULTACOM CORPORATION
 142.171.212.153,10041,US,MULTACOM CORPORATION
@@ -11428,7 +11073,6 @@
 142.93.102.178,443,DE,DigitalOcean LLC
 142.93.136.199,443,NL,DigitalOcean LLC
 142.93.140.86,2053,NL,DigitalOcean LLC
-142.93.140.86,8443,NL,DigitalOcean LLC
 142.93.142.199,8443,NL,DigitalOcean LLC
 142.93.229.101,443,NL,DigitalOcean LLC
 142.93.37.152,2086,GB,DigitalOcean LLC
@@ -11615,6 +11259,7 @@
 143.20.236.95,8443,NL,Customer allocation HB Client 2916
 143.20.236.96,8443,NL,Customer allocation HB Client 2916
 143.244.147.218,443,US,DigitalOcean LLC
+143.244.171.165,443,US,DigitalOcean LLC
 143.244.190.195,443,US,DigitalOcean LLC
 143.244.198.103,443,NL,DigitalOcean LLC
 143.244.205.222,443,DE,DigitalOcean LLC
@@ -11649,22 +11294,16 @@
 143.42.57.30,443,DE,Linode LLC
 143.42.58.29,443,DE,Linode LLC
 143.42.59.183,443,DE,Linode LLC
-143.42.66.91,443,SG,M1 LIMITED
+143.42.66.91,443,SG,Viewqwest Pte Ltd
 143.47.183.211,443,NL,Oracle Corporation
 144.126.132.39,8443,US,Contabo Inc
 144.126.147.42,443,US,Contabo Inc
 144.168.56.119,40864,US,IT7 Networks Inc
-144.168.61.145,2053,US,IT7 Networks Inc
 144.168.61.145,2083,US,IT7 Networks Inc
-144.168.61.145,2087,US,IT7 Networks Inc
-144.168.61.145,2096,US,IT7 Networks Inc
-144.168.61.145,443,US,IT7 Networks Inc
-144.168.61.145,8443,US,IT7 Networks Inc
 144.168.61.31,443,US,IT7 Networks Inc
 144.168.62.245,443,US,IT7 Networks Inc
 144.172.101.205,443,US,RouterHosting LLC
 144.172.93.50,2053,US,RouterHosting LLC
-144.202.11.133,443,US,The Constant Company LLC
 144.202.126.54,443,US,Vultr Holdings LLC
 144.202.28.122,8443,US,Vultr Holdings LLC
 144.202.30.93,8443,US,Vultr Holdings LLC
@@ -11679,7 +11318,6 @@
 144.24.9.81,12169,US,Oracle Corp UK Ltd
 144.24.90.107,443,KR,Oracle Corporation
 144.34.163.149,58431,US,Cluster Logic Inc
-144.34.164.252,443,US,Cluster Logic Inc
 144.34.181.160,443,US,Cluster Logic Inc
 144.34.186.222,8443,US,Cluster Logic Inc
 144.34.228.162,443,US,Cluster Logic Inc
@@ -11781,7 +11419,6 @@
 146.56.140.79,22561,KR,Cloudflare London LLC
 146.56.140.79,44699,KR,Cloudflare London LLC
 146.56.141.197,443,KR,Oracle Corporation
-146.56.146.130,8800,KR,Cloudflare London LLC
 146.56.162.25,443,KR,Oracle Corporation  Global software solutions  California  USA
 146.56.182.217,54266,KR,Oracle Corporation  Global software solutions  California  USA
 146.56.188.143,443,KR,Oracle Corporation
@@ -11868,7 +11505,7 @@
 146.70.131.111,20205,AE,M247 Europe  Dubai Infrastructure
 146.70.157.12,443,RO,M247EUCustomers
 146.70.233.25,443,CH,M247 Europe  Zurich Infrastructure
-146.70.24.141,443,US,M247 LTD New York Infrastructure
+146.70.24.141,443,US,M247 Europe SRL
 146.70.32.10,443,FR,Cloudflare London LLC
 146.70.32.11,443,FR,Cloudflare London LLC
 146.70.32.13,443,FR,Cloudflare London LLC
@@ -11960,6 +11597,7 @@
 147.45.193.132,443,DE,DpkgSoft International Limited
 147.45.196.240,2053,DE,nuxtcloud hosting provider
 147.45.196.240,8443,DE,nuxtcloud hosting provider
+147.45.197.119,443,DE,nuxtcloud hosting provider
 147.45.197.120,8443,DE,nuxtcloud hosting provider
 147.45.197.21,2053,DE,nuxtcloud hosting provider
 147.45.197.21,8443,DE,nuxtcloud hosting provider
@@ -11978,6 +11616,7 @@
 147.45.221.20,443,NL,GLOBAL CONNECTIVITY SOLUTIONS LLP
 147.45.222.35,443,DE,nuxtcloud hosting provider
 147.45.225.134,443,NL,Timeweb LLP
+147.45.225.228,443,NL,Timeweb LLP
 147.45.226.11,443,NL,JSC TIMEWEB
 147.45.226.187,2053,NL,Timeweb LLP
 147.45.226.187,8443,NL,Timeweb LLP
@@ -11985,6 +11624,7 @@
 147.45.228.231,8443,NL,Timeweb LLP
 147.45.228.4,443,NL,Timeweb LLP
 147.45.228.98,2053,NL,Timeweb LLP
+147.45.229.158,443,NL,Timeweb LLP
 147.45.231.245,2053,NL,Timeweb LLP
 147.45.231.245,8443,NL,Timeweb LLP
 147.45.236.50,2096,RU,JSC TIMEWEB
@@ -12099,16 +11739,14 @@
 148.135.106.200,443,US,Brander Group Inc
 148.135.110.150,48503,US,Brander Group Inc
 148.135.118.112,5000,US,Packethub SA
-148.135.22.233,48625,US,MULTACOM CORPORATION
 148.135.34.69,443,US,Brander Group Inc
 148.135.4.230,30472,US,Brander Group Inc
-148.135.52.188,443,US,Brander Group Inc
 148.135.52.250,48993,US,Brander Group Inc
 148.135.59.166,22103,US,Brander Group Inc
 148.135.59.174,54824,US,Brander Group Inc
 148.135.68.228,2053,US,Brander Group Inc
 148.135.76.112,443,US,Brander Group Inc
-148.135.94.61,443,US,Brander Group Inc
+148.135.80.71,8443,US,MULTACOM CORPORATION
 148.135.95.45,2096,US,Brander Group Inc
 148.177.146.71,443,US,Johnson  Johnson
 148.223.138.11,443,MX,Uninet S A de CV
@@ -12118,7 +11756,6 @@
 148.251.30.237,56577,DE,HOS1914448
 148.253.208.57,443,DE,SEBEK sp z oo
 149.104.120.254,443,TW,Kaopu Cloud HK Limited
-149.129.104.0,443,HK,26F Tower One Times Square 1 Matheson Street Causeway Bay Hong Kong
 149.129.91.58,23779,HK,26F Tower One Times Square 1 Matheson Street Causeway Bay Hong Kong
 149.18.36.150,443,NL,Cogent Communications LLC
 149.18.36.175,443,NL,Cogent Communications LLC
@@ -12130,8 +11767,9 @@
 149.28.158.103,10030,SG,Vultr Holdings LLC
 149.28.21.106,443,JP,Vultr Holdings LLC
 149.28.237.19,443,US,The Constant Company LLC
-149.28.255.16,8443,US,Cloudflare London LLC
+149.28.255.16,8443,US,Vultr Holdings LLC
 149.28.47.82,8443,US,Vultr Holdings LLC
+149.28.62.21,443,US,Vultr Holdings LLC
 149.28.92.56,443,US,Vultr Holdings LLC
 149.28.94.52,443,US,Vultr Holdings LLC
 149.56.14.62,443,CA,OVH Hosting Inc
@@ -12144,21 +11782,20 @@
 150.136.169.72,443,US,Oracle Public Cloud
 150.136.254.79,443,US,Oracle Public Cloud
 150.136.61.82,8443,US,Oracle Public Cloud
+150.136.87.192,443,US,Oracle Public Cloud
 150.230.146.170,2053,DE,Oracle Corporation
 150.230.159.76,443,DE,Oracle Corporation
 150.230.168.70,50479,US,Oracle Corporation
+150.230.196.248,443,JP,Oracle Corporation
 150.230.196.57,2096,JP,Oracle Corporation
 150.230.204.21,10243,JP,Oracle Corporation
 150.230.21.15,443,NL,Oracle Corporation
 150.230.214.172,16957,JP,Oracle Corporation
-150.230.249.48,443,KR,Oracle Corporation
 150.230.27.23,16504,CA,Oracle Corporation
 150.230.33.247,19131,US,Oracle Corporation
 150.230.5.34,45681,JP,Oracle Corporation
 150.230.59.15,8443,JP,Oracle Corporation
 150.230.62.103,443,JP,Oracle Corporation
-150.230.63.93,443,JP,Oracle Corporation
-150.230.7.216,443,JP,Oracle Corporation
 150.241.105.227,2053,DE,u1host ltd
 150.241.105.227,8443,DE,u1host ltd
 150.241.105.230,443,DE,u1host ltd
@@ -12354,7 +11991,6 @@
 152.69.192.40,57005,JP,Oracle Corporation
 152.69.199.70,8443,JP,Oracle Corporation
 152.69.202.173,59407,JP,Oracle Corporation
-152.69.224.246,587,KR,Oracle Corporation
 152.69.229.175,22558,KR,Oracle Corporation
 152.70.101.24,16000,JP,Oracle Corporation
 152.70.101.24,16001,JP,Oracle Corporation
@@ -12513,6 +12149,7 @@
 154.21.86.85,443,US,DMIT Cloud Services
 154.21.88.22,443,US,MULTACOM CORPORATION
 154.23.172.19,11000,US,KURUN CLOUD INC
+154.29.150.2,8080,US,NetLab
 154.31.113.10,443,JP,Private Customer
 154.31.113.25,443,JP,Private Customer
 154.31.113.81,443,JP,Private Customer
@@ -12546,6 +12183,7 @@
 155.248.198.56,34488,US,Oracle Public Cloud
 155.248.202.141,443,US,Oracle Public Cloud
 155.248.214.92,52580,US,Oracle Corporation
+155.254.19.128,443,US,Private Customer
 155.254.60.225,443,MY,Evoxt Enterprise
 155.4.245.184,443,SE,RID0000656849
 155.94.173.121,443,US,ContactJam
@@ -12576,6 +12214,9 @@
 157.230.127.100,2053,DE,DigitalOcean LLC
 157.230.127.100,8443,DE,DigitalOcean LLC
 157.230.27.167,443,DE,DigitalOcean LLC
+157.245.150.6,20205,SG,DigitalOcean LLC
+157.245.150.6,443,SG,DigitalOcean LLC
+157.245.150.6,74,SG,DigitalOcean LLC
 157.245.21.166,443,DE,DigitalOcean LLC
 157.245.215.195,8443,US,DigitalOcean LLC
 157.245.27.205,443,DE,DigitalOcean LLC
@@ -12612,11 +12253,9 @@
 158.160.38.18,443,RU,YandexCloud LLC
 158.178.144.206,443,DE,Tempest Hosting LLC
 158.178.193.78,82,FR,Cloudflare Inc
-158.178.206.197,2053,FR,Oracle Corporation
 158.178.206.197,8443,FR,Oracle Corporation
 158.178.229.178,443,SG,Oracle Corporation
 158.179.176.239,443,JP,Oracle Corporation
-158.179.180.209,8888,JP,oracle
 158.179.206.143,443,SE,oracle
 158.179.27.211,443,AU,oracle
 158.180.12.117,443,NL,Oracle Corporation
@@ -12660,12 +12299,13 @@
 159.253.21.237,4434,EE,Network for hosting services
 159.253.23.238,443,EE,IPv6 network for hosting services
 159.255.32.80,8443,FI,ISERVERS LTD
+159.255.33.198,443,FI,POWERSERVERSROLEORG
 159.255.36.103,443,DE,FIRST SERVER LIMITED
 159.255.38.207,443,FR,FIRST SERVER LIMITED
 159.54.160.136,443,US,Oracle Corporation
 159.54.175.77,443,US,Oracle Corporation
 159.60.146.81,443,US,None
-159.60.146.82,443,US,None
+159.60.146.82,443,US,F5 XC
 159.65.122.67,2053,DE,DigitalOcean LLC
 159.65.122.67,8443,DE,DigitalOcean LLC
 159.65.162.90,4431,US,DigitalOcean LLC
@@ -12674,7 +12314,7 @@
 159.65.52.88,443,GB,DigitalOcean LLC
 159.65.94.176,8080,GB,DigitalOcean LLC
 159.69.155.233,443,DE,Hetzner Online GmbH
-159.69.162.184,10020,SE,SA
+159.69.162.184,10020,EE,Fiber Grid INC
 159.69.162.184,42208,ES,Fiber Grid INC
 159.69.162.184,42235,DE,SA
 159.69.162.184,42420,DE,Internet Utilities Europe and Asia Limited
@@ -12694,6 +12334,7 @@
 159.69.250.58,2053,DE,Hetzner Online GmbH
 159.69.250.58,8443,DE,Hetzner Online GmbH
 159.69.46.179,2053,DE,Hetzner Online GmbH
+159.69.86.12,443,DE,Hetzner Online GmbH
 159.69.92.30,443,DE,Hetzner Online GmbH
 159.89.102.34,443,DE,DigitalOcean LLC
 159.89.20.160,8443,DE,DigitalOcean LLC
@@ -12706,7 +12347,6 @@
 160.22.79.177,443,SG,Onidel Pty Ltd
 160.22.79.191,443,SG,Onidel Pty Ltd
 160.251.142.232,443,JP,GMO Internet Inc
-161.145.150.130,443,US,Microsoft Corporation
 161.35.195.134,443,DE,DigitalOcean LLC
 161.35.29.176,8443,DE,DigitalOcean LLC
 162.120.69.85,8443,US,Brander Group Inc
@@ -12715,109 +12355,8 @@
 162.120.69.92,8443,US,Brander Group Inc
 162.120.69.93,8443,US,Brander Group Inc
 162.120.69.94,8443,US,Brander Group Inc
-162.159.160.0,443,US,Microsoft Corporation
-162.159.160.100,443,US,Microsoft Corporation
-162.159.160.101,443,US,Microsoft Corporation
-162.159.160.103,443,US,Microsoft Corporation
-162.159.160.11,443,US,Microsoft Corporation
-162.159.160.113,443,US,Microsoft Corporation
-162.159.160.114,443,US,Microsoft Corporation
-162.159.160.120,443,US,Microsoft Corporation
-162.159.160.124,443,US,Microsoft Corporation
-162.159.160.132,443,US,Microsoft Corporation
-162.159.160.133,443,US,Microsoft Corporation
-162.159.160.137,443,US,Microsoft Corporation
-162.159.160.14,443,US,Microsoft Corporation
-162.159.160.146,443,US,Microsoft Corporation
-162.159.160.147,443,US,Microsoft Corporation
-162.159.160.148,443,US,Microsoft Corporation
-162.159.160.150,443,US,Microsoft Corporation
-162.159.160.156,443,US,Microsoft Corporation
-162.159.160.158,443,US,Microsoft Corporation
-162.159.160.16,443,US,Microsoft Corporation
-162.159.160.161,443,US,Microsoft Corporation
-162.159.160.162,443,US,Microsoft Corporation
-162.159.160.164,443,US,Microsoft Corporation
-162.159.160.165,443,US,Microsoft Corporation
-162.159.160.166,443,US,Microsoft Corporation
-162.159.160.168,443,US,Microsoft Corporation
-162.159.160.173,443,US,Microsoft Corporation
-162.159.160.174,443,US,Microsoft Corporation
-162.159.160.175,443,US,Microsoft Corporation
-162.159.160.177,443,US,Microsoft Corporation
-162.159.160.18,443,US,Microsoft Corporation
-162.159.160.182,443,US,Microsoft Corporation
-162.159.160.185,443,US,Microsoft Corporation
-162.159.160.192,443,US,Microsoft Corporation
-162.159.160.197,443,US,Microsoft Corporation
-162.159.160.200,443,US,Microsoft Corporation
-162.159.160.206,443,US,Microsoft Corporation
-162.159.160.209,443,US,Microsoft Corporation
-162.159.160.210,443,US,Microsoft Corporation
-162.159.160.223,443,US,Microsoft Corporation
-162.159.160.227,443,US,Microsoft Corporation
-162.159.160.233,443,US,Microsoft Corporation
-162.159.160.235,443,US,Microsoft Corporation
-162.159.160.241,443,US,Microsoft Corporation
-162.159.160.242,443,US,Microsoft Corporation
-162.159.160.250,443,US,Microsoft Corporation
-162.159.160.251,443,US,Microsoft Corporation
-162.159.160.252,443,US,Microsoft Corporation
-162.159.160.253,443,US,Microsoft Corporation
-162.159.160.29,443,US,Microsoft Corporation
-162.159.160.3,443,US,Microsoft Corporation
-162.159.160.30,443,US,Microsoft Corporation
-162.159.160.33,443,US,Microsoft Corporation
-162.159.160.39,443,US,Microsoft Corporation
-162.159.160.4,443,US,Microsoft Corporation
-162.159.160.44,443,US,Microsoft Corporation
-162.159.160.47,443,US,Microsoft Corporation
-162.159.160.48,443,US,Microsoft Corporation
-162.159.160.53,443,US,Microsoft Corporation
-162.159.160.54,443,US,Microsoft Corporation
-162.159.160.61,443,US,Microsoft Corporation
-162.159.160.62,443,US,Microsoft Corporation
-162.159.160.69,443,US,Microsoft Corporation
-162.159.160.75,443,US,Microsoft Corporation
-162.159.160.76,443,US,Microsoft Corporation
-162.159.160.82,443,US,Microsoft Corporation
-162.159.160.85,443,US,Microsoft Corporation
-162.159.160.87,443,US,Microsoft Corporation
-162.159.160.9,443,US,Microsoft Corporation
-162.159.240.31,443,US,Microsoft Corporation
-162.159.240.35,443,US,Microsoft Corporation
-162.159.240.45,443,US,Microsoft Corporation
-162.159.242.41,443,US,Microsoft Corporation
-162.159.242.81,443,US,Microsoft Corporation
-162.159.244.146,443,US,Microsoft Corporation
-162.159.247.114,443,US,Microsoft Corporation
-162.159.247.115,443,US,Microsoft Corporation
-162.159.247.116,443,US,Microsoft Corporation
-162.159.247.119,443,US,Microsoft Corporation
-162.159.247.129,443,US,Microsoft Corporation
-162.159.247.130,443,US,Microsoft Corporation
-162.159.247.137,443,US,Microsoft Corporation
-162.159.247.138,443,US,Microsoft Corporation
-162.159.247.141,443,US,Microsoft Corporation
-162.159.247.143,443,US,Microsoft Corporation
-162.159.247.163,443,US,Microsoft Corporation
-162.159.247.170,443,US,Microsoft Corporation
-162.159.247.176,443,US,Microsoft Corporation
-162.159.247.177,443,US,Microsoft Corporation
-162.159.247.182,443,US,Microsoft Corporation
-162.159.247.183,443,US,Microsoft Corporation
-162.159.247.209,443,US,Microsoft Corporation
-162.159.247.220,443,US,Microsoft Corporation
-162.159.247.73,443,US,Microsoft Corporation
-162.159.247.82,443,US,Microsoft Corporation
-162.159.247.84,443,US,Microsoft Corporation
-162.159.247.97,443,US,Microsoft Corporation
-162.159.248.3,443,US,Microsoft Corporation
-162.159.248.4,443,US,Microsoft Corporation
-162.159.248.5,443,US,Microsoft Corporation
-162.159.251.49,443,US,Microsoft Corporation
-162.159.254.117,443,US,Microsoft Corporation
 162.19.158.102,443,DE,OVH GmbH
+162.19.158.37,8443,DE,HostiMan Hosting
 162.19.212.24,2083,DE,OVH GmbH
 162.19.224.113,2053,DE,OVH GmbH
 162.19.224.113,8443,DE,OVH GmbH
@@ -12927,7 +12466,6 @@
 162.55.42.7,2096,DE,Hetzner Online GmbH
 162.55.53.251,8443,DE,Hetzner Online GmbH
 162.62.120.236,20443,DE,ACEVILLEPTELTDSG
-163.172.157.35,443,FR,Scaleway Dedibox  Paris France
 163.172.89.158,81,FR,Scaleway Dedibox  Paris France
 163.5.187.118,2053,DE,IPHOSTER OU
 163.5.187.121,2053,DE,IPHOSTER OU
@@ -12935,7 +12473,6 @@
 163.5.187.211,2053,DE,IPHOSTER OU
 163.5.187.248,2053,DE,IPHOSTER OU
 163.5.187.49,2053,DE,IPHOSTER OU
-163.5.207.124,443,NL,SERVA ONE LTD
 163.5.207.235,443,NL,SERVA ONE LTD
 163.5.207.31,443,NL,SERVA ONE LTD
 163.5.207.39,443,NL,SERVA ONE LTD
@@ -12977,6 +12514,7 @@
 165.22.193.194,2053,NL,DigitalOcean LLC
 165.22.193.194,8443,NL,DigitalOcean LLC
 165.22.200.101,2087,NL,DigitalOcean LLC
+165.22.209.185,443,IN,DigitalOcean LLC
 165.227.11.101,443,US,DigitalOcean LLC
 165.227.130.123,443,DE,DigitalOcean LLC
 165.227.146.168,443,DE,DigitalOcean LLC
@@ -13026,7 +12564,7 @@
 167.179.27.92,443,US,Aryaka Networks Inc co Equinix SV4 255 Caspian Drive Sunnyvale CA 94089 United States
 167.179.74.220,2053,JP,TYOVULTRCUST
 167.179.85.73,10392,JP,TYOVULTRCUST
-167.179.86.6,8443,JP,Vultr Holdings LLC
+167.179.86.6,8443,JP,TYOVULTRCUST
 167.224.64.248,443,US,HOSTKEY
 167.234.216.84,65501,US,Oracle Corporation
 167.235.149.67,443,DE,Hetzner Online GmbH
@@ -13035,6 +12573,7 @@
 167.235.253.130,8443,DE,Hetzner Online GmbH
 167.235.57.61,443,DE,Hetzner Online GmbH
 167.235.65.225,8443,DE,Hetzner Online GmbH
+167.235.69.166,443,DE,Hetzner Online GmbH
 167.235.86.236,443,DE,HOS501986
 167.71.13.173,443,NL,DigitalOcean LLC
 167.71.190.217,443,US,DigitalOcean LLC
@@ -13063,6 +12602,7 @@
 167.99.183.13,443,CA,DigitalOcean LLC
 167.99.199.77,443,GB,DigitalOcean LLC
 167.99.205.203,2053,GB,DigitalOcean LLC
+167.99.215.101,8443,NL,Cloudflare Inc
 167.99.215.68,443,NL,DigitalOcean LLC
 167.99.43.26,443,NL,DigitalOcean LLC
 167.99.49.60,443,US,DigitalOcean LLC
@@ -13091,6 +12631,7 @@
 168.138.170.211,53702,SG,Oracle Public Cloud
 168.138.171.70,23280,SG,Oracle Public Cloud
 168.138.184.172,443,SG,Oracle Public Cloud
+168.138.185.234,443,SG,Oracle Public Cloud
 168.138.189.91,443,SG,Oracle Public Cloud
 168.138.192.16,54584,JP,Oracle Public Cloud
 168.138.197.147,12345,JP,Oracle Public Cloud
@@ -13109,9 +12650,11 @@
 170.130.40.20,443,US,Eonix Corporation
 170.130.40.242,8443,US,Eonix Corporation
 170.187.186.131,443,DE,Linode LLC
+170.187.189.24,443,DE,Linode LLC
 170.187.190.245,443,DE,Linode LLC
 170.187.190.37,443,DE,Linode LLC
 170.187.190.53,443,DE,Linode LLC
+170.187.190.81,443,DE,Linode LLC
 170.205.28.40,443,US,Advin Services LLC
 170.205.28.41,443,US,Advin Services LLC
 170.205.38.77,443,US,HostHatch LLC
@@ -13136,7 +12679,7 @@
 171.22.175.206,8443,GB,MASSIVEGRID LTD
 171.22.183.86,443,NL,BlueVPS OU
 171.22.30.210,443,NL,Baykov Ilya Sergeevich
-172.104.110.10,14673,JP,Akamai Connected Cloud  Linode
+172.104.110.10,14673,JP,Linode
 172.104.113.112,20205,JP,Akamai Connected Cloud  Linode
 172.104.113.112,32225,JP,Akamai Connected Cloud  Linode
 172.104.113.112,386,JP,Akamai Connected Cloud  Linode
@@ -13263,7 +12806,6 @@
 172.232.157.252,8443,SE,Linode
 172.232.206.127,443,IT,Linode
 172.232.206.9,443,IT,Linode
-172.232.231.191,10443,ID,Linode
 172.232.231.191,444,ID,Linode
 172.232.234.155,20205,ID,Linode
 172.232.234.155,443,ID,Linode
@@ -13289,8 +12831,6 @@
 172.245.111.20,443,US,RackNerd LLC
 172.245.129.72,27486,US,RackNerd LLC
 172.245.148.211,443,US,RackNerd LLC
-172.245.156.126,2053,US,RackNerd LLC
-172.245.156.126,8443,US,RackNerd LLC
 172.245.182.112,443,US,HostPapa
 172.245.185.181,2053,US,RackNerd LLC
 172.245.205.54,8443,US,RackNerd LLC
@@ -13303,100 +12843,6 @@
 172.245.97.149,443,IE,HostPapa
 172.255.101.28,443,NL,Serverscom BV
 172.255.248.99,443,LU,Serverscom BV
-172.64.40.0,443,US,Microsoft Corporation
-172.64.40.1,443,US,Microsoft Corporation
-172.64.40.101,443,US,Microsoft Corporation
-172.64.40.104,443,US,Microsoft Corporation
-172.64.40.106,443,US,Microsoft Corporation
-172.64.40.109,443,US,Microsoft Corporation
-172.64.40.11,443,US,Microsoft Corporation
-172.64.40.118,443,US,Microsoft Corporation
-172.64.40.121,443,US,Microsoft Corporation
-172.64.40.123,443,US,Microsoft Corporation
-172.64.40.129,443,US,Microsoft Corporation
-172.64.40.13,443,US,Microsoft Corporation
-172.64.40.131,443,US,Microsoft Corporation
-172.64.40.132,443,US,Microsoft Corporation
-172.64.40.136,443,US,Microsoft Corporation
-172.64.40.139,443,US,Microsoft Corporation
-172.64.40.14,443,US,Microsoft Corporation
-172.64.40.147,443,US,Microsoft Corporation
-172.64.40.157,443,US,Microsoft Corporation
-172.64.40.158,443,US,Microsoft Corporation
-172.64.40.159,443,US,Microsoft Corporation
-172.64.40.160,443,US,Microsoft Corporation
-172.64.40.164,443,US,Microsoft Corporation
-172.64.40.165,443,US,Microsoft Corporation
-172.64.40.167,443,US,Microsoft Corporation
-172.64.40.168,443,US,Microsoft Corporation
-172.64.40.171,443,US,Microsoft Corporation
-172.64.40.177,443,US,Microsoft Corporation
-172.64.40.180,443,US,Microsoft Corporation
-172.64.40.185,443,US,Microsoft Corporation
-172.64.40.19,443,US,Microsoft Corporation
-172.64.40.193,443,US,Microsoft Corporation
-172.64.40.198,443,US,Microsoft Corporation
-172.64.40.202,443,US,Microsoft Corporation
-172.64.40.203,443,US,Microsoft Corporation
-172.64.40.205,443,US,Microsoft Corporation
-172.64.40.206,443,US,Microsoft Corporation
-172.64.40.213,443,US,Microsoft Corporation
-172.64.40.22,443,US,Microsoft Corporation
-172.64.40.223,443,US,Microsoft Corporation
-172.64.40.224,443,US,Microsoft Corporation
-172.64.40.232,443,US,Microsoft Corporation
-172.64.40.234,443,US,Microsoft Corporation
-172.64.40.235,443,US,Microsoft Corporation
-172.64.40.245,443,US,Microsoft Corporation
-172.64.40.252,443,US,Microsoft Corporation
-172.64.40.253,443,US,Microsoft Corporation
-172.64.40.31,443,US,Microsoft Corporation
-172.64.40.36,443,US,Microsoft Corporation
-172.64.40.38,443,US,Microsoft Corporation
-172.64.40.42,443,US,Microsoft Corporation
-172.64.40.47,443,US,Microsoft Corporation
-172.64.40.5,443,US,Microsoft Corporation
-172.64.40.54,443,US,Microsoft Corporation
-172.64.40.66,443,US,Microsoft Corporation
-172.64.40.7,443,US,Microsoft Corporation
-172.64.40.73,443,US,Microsoft Corporation
-172.64.40.76,443,US,Microsoft Corporation
-172.64.40.78,443,US,Microsoft Corporation
-172.64.40.81,443,US,Microsoft Corporation
-172.64.40.84,443,US,Microsoft Corporation
-172.64.40.85,443,US,Microsoft Corporation
-172.64.40.88,443,US,Microsoft Corporation
-172.64.40.89,443,US,Microsoft Corporation
-172.64.40.94,443,US,Microsoft Corporation
-172.64.40.95,443,US,Microsoft Corporation
-172.64.78.0,443,US,Microsoft Corporation
-172.64.78.102,443,US,Microsoft Corporation
-172.64.78.103,443,US,Microsoft Corporation
-172.64.78.120,443,US,Microsoft Corporation
-172.64.78.127,443,US,Microsoft Corporation
-172.64.78.128,443,US,Microsoft Corporation
-172.64.78.134,443,US,Microsoft Corporation
-172.64.78.139,443,US,Microsoft Corporation
-172.64.78.142,443,US,Microsoft Corporation
-172.64.78.145,443,US,Microsoft Corporation
-172.64.78.148,443,US,Microsoft Corporation
-172.64.78.153,443,US,Microsoft Corporation
-172.64.78.179,443,US,Microsoft Corporation
-172.64.78.194,443,US,Microsoft Corporation
-172.64.78.195,443,US,Microsoft Corporation
-172.64.78.199,443,US,Microsoft Corporation
-172.64.78.222,443,US,Microsoft Corporation
-172.64.78.225,443,US,Microsoft Corporation
-172.64.78.238,443,US,Microsoft Corporation
-172.64.78.30,443,US,Microsoft Corporation
-172.64.78.4,443,US,Microsoft Corporation
-172.64.78.54,443,US,Microsoft Corporation
-172.64.78.65,443,US,Microsoft Corporation
-172.64.78.9,443,US,Microsoft Corporation
-172.64.78.98,443,US,Microsoft Corporation
-172.65.90.23,443,US,Microsoft Corporation
-172.65.90.24,443,US,Microsoft Corporation
-172.65.90.53,443,US,Microsoft Corporation
 172.82.16.113,18003,US,OLink Cloud LLC
 172.82.16.99,443,US,OLink Cloud LLC US Cloud
 172.83.159.4,16478,US,Spartan Host Ltd
@@ -13407,8 +12853,11 @@
 172.86.114.182,2053,US,RouterHosting LLC
 172.86.114.182,8443,US,RouterHosting LLC
 172.86.67.91,443,DE,RouterHosting LLC
+172.86.68.95,2053,DE,RouterHosting LLC
 172.86.68.95,8443,DE,RouterHosting LLC
+172.86.73.221,443,US,RouterHosting LLC
 172.86.83.44,42935,SG,RouterHosting LLC
+172.86.88.47,8443,US,RouterHosting LLC
 172.86.95.236,443,DE,RouterHosting LLC
 172.93.163.177,8443,US,365 Group
 172.93.231.224,443,US,Nexeon Technologies Inc
@@ -13458,12 +12907,11 @@
 176.105.253.98,443,PL,BREEZLE LLC
 176.109.106.61,8443,RU,Cloud Technologies LLC trading as Cloudru
 176.109.106.61,8444,RU,Cloud Technologies LLC trading as Cloudru
-176.112.164.131,8443,DE,u1host ltd
+176.112.164.131,8443,DE,play2gocloud  Cheap and reliable hosting
 176.119.141.113,443,NL,Snowd Security OU
 176.119.141.162,40000,NL,Cloudflare London LLC
 176.119.141.162,443,NL,Cloudflare London LLC
 176.119.150.38,44388,JP,Virtual Machine Solutions LLC
-176.120.180.28,8443,DE,Senko Digital Ltd
 176.120.21.202,2053,KZ,AdminVPS OOO
 176.120.21.202,8443,KZ,AdminVPS OOO
 176.120.66.177,8443,CH,WorkTitans BV
@@ -13587,10 +13035,10 @@
 176.98.40.129,443,NL,IROKO Networks Corporation
 176.98.40.230,443,NL,IROKO Networks Corporation
 176.98.40.94,443,NL,IROKO Networks Corporation
-177.128.123.121,8443,BR,Disk Sistema TeleInformatica Ltda ME
 178.128.107.58,3128,SG,DigitalOcean LLC
 178.128.138.156,443,NL,DigitalOcean LLC
 178.128.143.218,2053,NL,DigitalOcean LLC
+178.128.143.218,8443,NL,DigitalOcean LLC
 178.128.148.242,443,US,DigitalOcean LLC
 178.128.198.120,2053,DE,DigitalOcean LLC
 178.128.198.120,8443,DE,DigitalOcean LLC
@@ -13687,9 +13135,11 @@
 178.236.244.42,8443,FI,Aeza International LTD
 178.236.244.55,2053,PL,Aeza International LTD
 178.236.244.55,8443,PL,Aeza International LTD
+178.236.253.23,443,DE,nuxtcloud hosting provider
 178.236.253.75,443,DE,nuxtcloud hosting provider
 178.236.254.154,443,DE,WAIcore Ltd
 178.236.254.38,443,DE,WAIcore Ltd
+178.239.123.216,24443,SG,BAGE CLOUD LLC
 178.248.75.49,443,LV,SERVA ONE LTD
 178.248.75.53,443,LV,SERVA ONE LTD
 178.248.75.57,443,LV,SERVA ONE LTD
@@ -13774,6 +13224,7 @@
 181.41.194.176,15565,NL,RACK400com  Netherlands Infrastructure
 182.212.76.41,50001,KR,LG POWERCOMM
 182.218.116.173,50001,KR,LG POWERCOMM
+182.231.10.122,50001,KR,LG POWERCOMM
 182.231.126.156,50001,KR,LG POWERCOMM
 182.237.216.183,50001,KR,Keumgang Cable Network
 183.100.116.217,50001,KR,Korea Telecom
@@ -13857,7 +13308,7 @@
 185.106.94.31,2053,DE,Hypercore Ltd
 185.106.94.49,443,AT,Aeza International LTD
 185.106.94.70,443,AT,Aeza International LTD
-185.106.94.73,443,DE,Hypercore Ltd
+185.106.94.73,443,AT,Aeza International LTD
 185.106.95.15,443,US,GTELCOM LLC
 185.106.95.249,443,US,GTELCOM LLC
 185.106.96.203,11338,US,Sriyaan technology
@@ -13887,7 +13338,7 @@
 185.114.73.166,8443,ES,FIRST SERVER LIMITED
 185.114.73.221,443,ES,FIRST SERVER LIMITED
 185.114.78.230,443,US,Aryaka Networks Inc co Equinix SV4 255 Caspian Drive Sunnyvale CA 94089 United States
-185.116.161.124,443,FR,OVH Technical Contact OVH Technical Contact OVH Technical Contact OVH Technical Contact
+185.116.161.124,443,DE,HOS47115
 185.117.116.214,443,FI,FIRST SERVER LIMITED
 185.117.119.93,2053,FI,FIRST SERVER LIMITED
 185.117.72.7,443,NL,HostSailor NL Services
@@ -13964,8 +13415,6 @@
 185.125.230.50,443,RU,Aeza International LTD
 185.125.230.66,443,NL,Aeza International LTD
 185.125.230.93,443,NL,Aeza International LTD
-185.125.231.161,2053,FI,PSERVERS Enterprise Network
-185.125.231.161,8443,FI,PSERVERS Enterprise Network
 185.125.50.174,443,DE,H2NEXUS LTD
 185.125.50.26,443,DE,H2NEXUS LTD
 185.126.1.175,2083,DE,Hanauer Landstrae 302
@@ -14092,7 +13541,10 @@
 185.167.96.119,2053,NL,Kamatera Inc
 185.167.96.119,8443,NL,Kamatera Inc
 185.169.107.149,443,NL,Digital City FZE
+185.169.107.15,2053,NL,Digital City FZE
 185.169.107.48,443,NL,Digital City FZE
+185.169.107.52,2053,NL,Digital City FZE
+185.169.107.52,8443,NL,Digital City FZE
 185.17.123.114,443,DE,TK Rustelekom LLC
 185.17.123.32,2053,DE,TK Rustelekom LLC
 185.17.123.32,8443,DE,TK Rustelekom LLC
@@ -14296,7 +13748,6 @@
 185.200.178.133,443,NL,CLODO CLOUD SERVICE CO LLC
 185.200.178.185,443,NL,CLODO CLOUD SERVICE CO LLC
 185.200.36.36,443,TR,High Speed Telekomunikasyon ve Hab Hiz Ltd Sti
-185.201.252.55,443,NL,Podaon SIA
 185.203.116.174,443,BG,Belcloud LTD
 185.203.241.15,443,NL,Podaon SIA
 185.204.169.42,2052,DE,AEArvanCloudinfrastructure
@@ -14352,6 +13803,7 @@
 185.21.14.7,443,NL,Amsterdam Netherlands
 185.21.14.7,8443,NL,Amsterdam Netherlands
 185.21.14.91,443,NL,Amsterdam Netherlands
+185.21.15.100,2053,NL,Amsterdam Netherlands
 185.211.170.101,2053,RU,JSC TIMEWEB
 185.211.170.101,8443,RU,JSC TIMEWEB
 185.211.6.152,443,FR,Contabo GmbH
@@ -14423,6 +13875,7 @@
 185.221.198.107,443,DE,nuxtcloud hosting provider
 185.221.198.219,2053,DE,nuxtcloud hosting provider
 185.221.198.219,8443,DE,nuxtcloud hosting provider
+185.221.219.7,443,NL,Global Managed Hosting Inc
 185.221.237.134,443,DE,Deployish Limited
 185.222.163.6,443,IR,Mizban Dadeh Roham Co
 185.223.168.146,443,EE,Bone Infrastructure Telecom SRL
@@ -14516,7 +13969,6 @@
 185.232.204.31,443,FI,Individual Entrepreneur Anton Levin
 185.232.205.169,443,ES,HUIZE LTD
 185.232.205.33,443,ES,JaJoJoo LLC
-185.232.205.42,443,ES,HUIZE LTD
 185.232.205.61,443,ES,JaJoJoo LLC
 185.232.205.9,443,ES,JaJoJoo LLC
 185.233.184.37,2053,NL,AdminVPS OOO
@@ -14533,7 +13985,6 @@
 185.233.203.53,443,NL,FIRST SERVER LIMITED
 185.233.203.6,587,NL,FIRST SERVER LIMITED
 185.233.203.7,443,NL,FIRST SERVER LIMITED
-185.233.80.164,443,DE,FIRST SERVER LIMITED
 185.233.80.187,443,DE,FIRST SERVER LIMITED
 185.233.80.60,2053,DE,FIRST SERVER LIMITED
 185.233.80.60,8443,DE,FIRST SERVER LIMITED
@@ -14542,6 +13993,7 @@
 185.233.81.42,2053,DE,FIRST SERVER LIMITED
 185.233.81.42,8443,DE,FIRST SERVER LIMITED
 185.233.82.159,443,FI,FIRST SERVER LIMITED
+185.233.82.22,2053,FI,FIRST SERVER LIMITED
 185.233.83.81,443,RU,FIRST SERVER LIMITED
 185.234.57.153,443,AM,WorkTitans BV
 185.234.66.91,443,TR,WorkTitans BV
@@ -14611,7 +14063,6 @@
 185.243.112.197,443,NL,CrownCloud
 185.243.112.61,2053,NL,CrownCloud
 185.243.112.61,8443,NL,CrownCloud
-185.243.49.133,2083,GB,Kamatera Inc
 185.244.149.15,443,NL,Host Sailor Ltd
 185.244.173.176,443,RU,For FB customers
 185.244.210.172,8443,FR,GCore Labs SA
@@ -14638,7 +14089,7 @@
 185.245.106.208,8443,NL,SERVERS TECH FZCO
 185.245.107.12,443,NL,Amsterdam Netherlands
 185.245.107.12,8443,NL,Amsterdam Netherlands
-185.245.107.145,443,NL,Amsterdam Netherlands
+185.245.107.145,443,NL,SERVERS TECH FZCO
 185.245.107.166,443,NL,Amsterdam Netherlands
 185.245.107.188,443,NL,Amsterdam Netherlands
 185.245.107.188,8443,NL,Amsterdam Netherlands
@@ -14762,8 +14213,6 @@
 185.36.147.4,2053,BG,Friendhosting LTD
 185.36.147.4,8843,BG,Friendhosting LTD
 185.36.147.70,443,BG,Friendhosting LTD
-185.36.228.10,8443,DE,HOS349722
-185.36.228.11,8443,DE,HOS349722
 185.37.8.139,443,NL,Brainoza OU
 185.37.8.203,443,NL,Brainoza OU
 185.37.8.234,443,NL,Brainoza OU
@@ -14852,12 +14301,10 @@
 185.81.164.2,443,LT,UAB Interneto vizija
 185.81.166.162,443,LT,UAB Interneto vizija
 185.81.28.95,30503,SG,AKILE LTD
-185.82.126.184,2053,LV,Sia Nano IT
 185.82.126.185,2053,LV,Sia Nano IT
 185.82.126.206,2053,LV,Sia Nano IT
 185.82.126.216,2053,LV,Sia Nano IT
 185.82.126.217,2053,LV,Sia Nano IT
-185.82.126.239,2053,LV,Sia Nano IT
 185.82.126.247,2053,LV,Sia Nano IT
 185.82.126.254,2053,LV,Sia Nano IT
 185.82.126.64,2053,LV,Sia Nano IT
@@ -15058,6 +14505,8 @@
 188.172.229.141,2053,AT,powered by ANX
 188.172.229.141,8443,AT,netcup GmbH
 188.208.103.253,443,NL,Snowd Security OU
+188.208.197.10,2053,NL,INTROSERV doo
+188.208.197.10,8443,NL,INTROSERV doo
 188.213.168.52,443,IT,Aruba SpA  Cloud Services Farm2
 188.214.157.14,443,ES,oneprovidercom  Fez Infrastructure
 188.215.229.74,8443,NL,365 Group LLC
@@ -15107,7 +14556,6 @@
 188.241.241.28,2053,DE,HFM SRL
 188.241.241.29,2053,DE,HFM SRL
 188.241.241.3,2053,DE,HFM SRL
-188.241.241.32,2053,DE,HFM SRL
 188.241.241.33,2053,DE,HFM SRL
 188.241.241.37,2053,DE,HFM SRL
 188.245.104.199,2053,DE,Hetzner Online GmbH
@@ -15296,7 +14744,6 @@
 192.243.113.150,2087,US,Cloudflare London LLC
 192.243.113.150,2096,US,Cloudflare London LLC
 192.243.115.180,443,US,IT7 Networks Inc
-192.243.119.121,443,US,IT7 Networks Inc
 192.248.174.82,8443,GB,The Constant Company LLC
 192.248.180.28,2053,DE,Hanauer Landstrae 302
 192.248.180.28,8443,DE,Hanauer Landstrae 302
@@ -15306,6 +14753,7 @@
 192.3.150.56,8000,US,RackNerd LLC
 192.3.155.203,443,US,RackNerd LLC
 192.3.155.203,8443,US,RackNerd LLC
+192.3.155.217,443,US,RackNerd LLC
 192.3.203.160,443,US,Sunil Mirpuri
 192.3.251.89,443,US,RackNerd LLC
 192.3.30.175,2053,US,RackNerd LLC
@@ -15333,6 +14781,7 @@
 192.9.137.252,52580,US,Oracle Corporation
 192.9.138.69,21009,US,Oracle Corporation
 192.9.139.160,443,US,Oracle Corporation
+192.9.141.240,4443,US,Oracle Corporation
 192.9.145.87,13611,US,Oracle Corporation
 192.9.156.27,587,US,Oracle Corporation
 192.9.157.150,57783,US,Oracle Corporation
@@ -15363,13 +14812,10 @@
 193.109.84.103,8443,FI,PSERVERS Enterprise Network
 193.109.84.206,443,FI,PSERVERS Enterprise Network
 193.109.84.39,443,FI,PSERVERS Enterprise Network
-193.110.163.10,58443,UA,Astelnet LLC
 193.111.234.170,2083,IR,Asiatech Data Transmission company
-193.111.234.170,2087,IR,Asiatech Data Transmission company
 193.122.107.234,443,KR,Oracle Public Cloud
 193.122.109.52,3306,KR,Oracle Public Cloud
 193.122.114.82,443,KR,Oracle Corporation
-193.122.115.67,4434,KR,Oracle Public Cloud
 193.122.126.64,53777,KR,Oracle Public Cloud
 193.122.152.253,443,US,Oracle Public Cloud
 193.122.195.166,52557,US,Oracle Public Cloud
@@ -15407,6 +14853,7 @@
 193.124.49.35,443,NL,Baxet Group Inc
 193.124.92.170,443,DE,GLB Bulut Teknolojisi Limited Sirketi
 193.124.92.58,443,DE,GLB Bulut Teknolojisi Limited Sirketi
+193.134.101.63,8443,IR,Tejarat Pardaz Mahan Novin Co Ltd
 193.135.137.183,443,DE,Senko Digital Ltd
 193.135.137.255,443,DE,Senko Digital Ltd
 193.148.58.72,2053,SE,Baykov Ilya Sergeevich
@@ -15496,7 +14943,6 @@
 193.188.21.83,8443,SE,Aeza International LTD
 193.200.16.15,443,PL,BlueVPS OU
 193.200.16.15,8443,PL,BlueVPS OU
-193.202.12.10,443,US,FINE GROUP SERVERS SOLUTIONS LLC
 193.219.97.146,2053,AT,Alwyzon a trading name of Hohl IT eU
 193.219.97.146,8443,AT,Alwyzon a trading name of Hohl IT eU
 193.219.97.186,2053,AT,Alwyzon a trading name of Hohl IT eU
@@ -15777,6 +15223,7 @@
 194.146.39.128,443,NL,OMC COMPUTERS  COMMUNICATIONS LTD
 194.146.39.128,8443,NL,OMC COMPUTERS  COMMUNICATIONS LTD
 194.147.115.132,443,NL,ITDELUX ltd
+194.147.115.149,443,NL,ITDELUX ltd
 194.147.115.169,2053,NL,ITDELUX ltd
 194.147.115.240,443,NL,ITDELUX ltd
 194.147.115.37,2053,NL,ITDELUX ltd
@@ -15933,8 +15380,6 @@
 194.247.187.244,443,DE,HOSTKEY BV
 194.26.141.119,2053,EE,BlueVPS OU
 194.26.141.30,443,EE,BlueVPS OU
-194.26.141.56,443,EE,BlueVPS OU
-194.26.141.56,8443,EE,BlueVPS OU
 194.26.141.77,443,EE,BlueVPS OU
 194.26.141.77,8443,EE,BlueVPS OU
 194.26.141.83,443,EE,BlueVPS OU
@@ -15979,7 +15424,6 @@
 194.36.170.90,2053,FR,Cloudflare London LLC
 194.36.170.90,2083,FR,Cloudflare London LLC
 194.36.170.90,443,FR,Cloudflare London LLC
-194.36.177.1,443,DE,Hetzner Online GmbH
 194.36.178.36,2053,SG,FIRST SERVER LIMITED
 194.36.178.36,8443,SG,FIRST SERVER LIMITED
 194.36.179.17,2053,SG,FIRST SERVER LIMITED
@@ -15988,7 +15432,6 @@
 194.36.188.178,8443,NL,Host Sailor Ltd
 194.36.190.2,443,NL,HostSailor Naaldwijk NL Services
 194.37.81.117,8443,NL,OMC COMPUTERS  COMMUNICATIONS LTD
-194.39.204.118,443,DE,Webhosting24 GmbH
 194.39.204.118,65535,DE,Webhosting24 GmbH
 194.4.49.85,443,FR,WorkTitans BV
 194.4.51.171,2053,IE,WorkTitans BV
@@ -16020,8 +15463,8 @@
 194.54.144.61,8443,US,Brander Group Inc
 194.54.157.81,443,NL,WEISS HOSTING GROUP SRL
 194.54.159.57,443,NL,WorkTitans BV
-194.55.137.25,443,NL,FAST GEO HOSTING SRL
 194.55.235.11,2053,RU,KVIKTEL LLC
+194.55.238.68,2083,RU,Limited Company LineBit
 194.55.244.117,2053,RU,KVIKTEL LLC
 194.58.109.206,8443,RU,RegRu Hosting
 194.58.33.103,443,DE,nuxtcloud hosting provider
@@ -16100,7 +15543,7 @@
 194.87.137.88,443,CZ,Baxet Group Inc
 194.87.141.49,443,DE,Berch Solutions Limited
 194.87.148.106,443,DE,ALEKSEI FEDOROV PR KRUSEVAC
-194.87.148.148,2053,DE,ALEKSEI FEDOROV PR KRUSEVAC
+194.87.148.148,8443,DE,ALEKSEI FEDOROV PR KRUSEVAC
 194.87.148.202,8443,DE,ALEKSEI FEDOROV PR KRUSEVAC
 194.87.148.99,443,DE,ALEKSEI FEDOROV PR KRUSEVAC
 194.87.17.230,443,NL,Baxet Group Inc
@@ -16496,7 +15939,7 @@
 195.58.52.52,2053,KZ,Big Data Host LLC
 195.58.52.52,8443,KZ,Big Data Host LLC
 195.58.54.223,2053,RU,MT FINANCE LLC
-195.62.48.25,2053,DE,ITGARAGE Hosting
+195.58.54.223,8443,RU,MT FINANCE LLC
 195.62.48.25,8443,DE,ITGARAGE Hosting
 195.66.114.33,443,RU,FIRST SERVER LIMITED
 195.66.114.35,443,RU,FIRST SERVER LIMITED
@@ -16507,7 +15950,6 @@
 195.93.253.23,8443,NL,Webhost LLC
 197.221.234.148,443,ZW,Serial Link for TelOne HQ
 197.221.234.149,443,ZW,Serial Link for TelOne HQ
-197.221.234.254,443,ZW,Serial Link for TelOne HQ
 197.221.237.248,443,ZW,Serial Link for TelOne HQ
 197.221.237.255,443,ZW,Serial Link for TelOne HQ
 197.221.238.15,443,ZW,Serial Link for TelOne HQ
@@ -16518,7 +15960,7 @@
 198.105.124.163,443,FI,ISERVERS LTD
 198.105.124.180,443,FI,POWERSERVERSROLEORG
 198.105.124.193,443,FI,POWERSERVERSROLEORG
-198.105.124.249,443,FI,POWERSERVERSROLEORG
+198.105.124.249,443,FI,ISERVERS LTD
 198.105.125.82,443,FI,ISERVERS LTD
 198.12.74.78,443,US,RackNerd LLC
 198.12.95.66,8443,US,HostPapa
@@ -16538,91 +15980,6 @@
 198.244.169.93,44004,GB,OVH Ltd
 198.244.235.173,179,GB,OVH Ltd
 198.251.81.70,443,US,FranTech Solutions
-198.41.219.10,443,US,Microsoft Corporation
-198.41.219.107,443,US,Microsoft Corporation
-198.41.219.112,443,US,Microsoft Corporation
-198.41.219.113,443,US,Microsoft Corporation
-198.41.219.115,443,US,Microsoft Corporation
-198.41.219.117,443,US,Microsoft Corporation
-198.41.219.12,443,US,Microsoft Corporation
-198.41.219.123,443,US,Microsoft Corporation
-198.41.219.125,443,US,Microsoft Corporation
-198.41.219.130,443,US,Microsoft Corporation
-198.41.219.134,443,US,Microsoft Corporation
-198.41.219.137,443,US,Microsoft Corporation
-198.41.219.138,443,US,Microsoft Corporation
-198.41.219.14,443,US,Microsoft Corporation
-198.41.219.143,443,US,Microsoft Corporation
-198.41.219.144,443,US,Microsoft Corporation
-198.41.219.152,443,US,Microsoft Corporation
-198.41.219.155,443,US,Microsoft Corporation
-198.41.219.157,443,US,Microsoft Corporation
-198.41.219.161,443,US,Microsoft Corporation
-198.41.219.163,443,US,Microsoft Corporation
-198.41.219.17,443,US,Microsoft Corporation
-198.41.219.170,443,US,Microsoft Corporation
-198.41.219.171,443,US,Microsoft Corporation
-198.41.219.172,443,US,Microsoft Corporation
-198.41.219.177,443,US,Microsoft Corporation
-198.41.219.185,443,US,Microsoft Corporation
-198.41.219.188,443,US,Microsoft Corporation
-198.41.219.191,443,US,Microsoft Corporation
-198.41.219.192,443,US,Microsoft Corporation
-198.41.219.194,443,US,Microsoft Corporation
-198.41.219.195,443,US,Microsoft Corporation
-198.41.219.196,443,US,Microsoft Corporation
-198.41.219.2,443,US,Microsoft Corporation
-198.41.219.200,443,US,Microsoft Corporation
-198.41.219.210,443,US,Microsoft Corporation
-198.41.219.212,443,US,Microsoft Corporation
-198.41.219.213,443,US,Microsoft Corporation
-198.41.219.214,443,US,Microsoft Corporation
-198.41.219.216,443,US,Microsoft Corporation
-198.41.219.217,443,US,Microsoft Corporation
-198.41.219.224,443,US,Microsoft Corporation
-198.41.219.225,443,US,Microsoft Corporation
-198.41.219.228,443,US,Microsoft Corporation
-198.41.219.234,443,US,Microsoft Corporation
-198.41.219.239,443,US,Microsoft Corporation
-198.41.219.24,443,US,Microsoft Corporation
-198.41.219.245,443,US,Microsoft Corporation
-198.41.219.248,2096,US,Microsoft Corporation
-198.41.219.252,443,US,Microsoft Corporation
-198.41.219.254,443,US,Microsoft Corporation
-198.41.219.27,443,US,Microsoft Corporation
-198.41.219.3,443,US,Microsoft Corporation
-198.41.219.31,443,US,Microsoft Corporation
-198.41.219.33,443,US,Microsoft Corporation
-198.41.219.35,2053,US,Microsoft Corporation
-198.41.219.35,2083,US,Microsoft Corporation
-198.41.219.35,2087,US,Microsoft Corporation
-198.41.219.35,2096,US,Microsoft Corporation
-198.41.219.37,443,US,Microsoft Corporation
-198.41.219.38,443,US,Microsoft Corporation
-198.41.219.39,443,US,Microsoft Corporation
-198.41.219.4,443,US,Microsoft Corporation
-198.41.219.46,443,US,Microsoft Corporation
-198.41.219.47,443,US,Microsoft Corporation
-198.41.219.49,443,US,Microsoft Corporation
-198.41.219.50,443,US,Microsoft Corporation
-198.41.219.54,443,US,Microsoft Corporation
-198.41.219.56,443,US,Microsoft Corporation
-198.41.219.57,443,US,Microsoft Corporation
-198.41.219.58,443,US,Microsoft Corporation
-198.41.219.65,443,US,Microsoft Corporation
-198.41.219.66,443,US,Microsoft Corporation
-198.41.219.67,443,US,Microsoft Corporation
-198.41.219.7,443,US,Microsoft Corporation
-198.41.219.75,443,US,Microsoft Corporation
-198.41.219.8,443,US,Microsoft Corporation
-198.41.219.82,443,US,Microsoft Corporation
-198.41.219.84,443,US,Microsoft Corporation
-198.41.219.88,443,US,Microsoft Corporation
-198.41.219.89,443,US,Microsoft Corporation
-198.41.219.91,443,US,Microsoft Corporation
-198.41.219.94,443,US,Microsoft Corporation
-198.41.219.95,443,US,Microsoft Corporation
-198.41.219.99,443,US,Microsoft Corporation
 198.46.143.134,443,US,RackNerd LLC
 198.46.143.134,8443,US,RackNerd LLC
 198.46.158.171,8443,US,RackNerd LLC
@@ -16640,8 +15997,8 @@
 198.96.88.148,443,US,Interserver Inc
 198.98.51.17,2083,US,FranTech Solutions
 198.98.54.187,8443,US,FranTech Solutions
-198.98.58.244,443,US,FranTech Solutions
 198.98.61.220,443,US,FranTech Solutions
+198.98.62.141,443,US,FranTech Solutions
 199.119.137.109,2053,US,EXTRAVM LLC
 199.119.137.41,2053,US,EXTRAVM LLC
 199.119.137.41,8443,US,EXTRAVM LLC
@@ -16649,6 +16006,7 @@
 199.119.137.78,2053,US,EXTRAVM LLC
 199.119.137.95,2053,US,EXTRAVM LLC
 199.180.116.138,443,US,Cluster Logic Inc
+199.195.253.235,443,US,FranTech Solutions
 199.195.254.21,443,US,FranTech Solutions
 199.21.172.89,443,TH,ReadyIDC COLTD
 199.21.175.187,2053,TH,ReadyIDC COLTD
@@ -16682,6 +16040,7 @@
 202.61.248.96,443,DE,netcup GmbH
 202.61.254.159,443,DE,netcup GmbH
 202.71.13.242,8443,NL,Snowd Security OU
+202.83.24.75,443,IN,Broad Band Internet Service Provider India
 202.84.53.85,19999,JP,Azumino Network Community TV
 202.85.53.74,443,HK,Mazen Ind Ltd
 203.137.166.120,50090,JP,IDC Frontier Inc
@@ -16703,39 +16062,27 @@
 203.31.40.29,443,RU,HostingVDS
 203.98.67.74,2053,AT,Alwyzon a trading name of Hohl IT eU
 203.98.67.74,8443,AT,Alwyzon a trading name of Hohl IT eU
-204.110.220.1,80,US,Securly Inc
 204.110.220.101,80,US,Securly Inc
-204.110.220.113,80,US,Securly Inc
-204.110.220.134,80,US,Securly Inc
-204.110.220.145,80,US,Securly Inc
 204.110.220.158,80,US,Securly Inc
-204.110.220.168,80,US,Securly Inc
 204.110.220.183,80,US,Securly Inc
-204.110.220.186,80,US,Securly Inc
 204.110.220.195,80,US,Securly Inc
-204.110.220.198,80,US,Securly Inc
 204.110.220.229,80,US,Securly Inc
 204.110.220.23,80,US,Securly Inc
-204.110.220.230,80,US,Securly Inc
-204.110.220.232,80,US,Securly Inc
 204.110.220.240,80,US,Securly Inc
 204.110.220.246,80,US,Securly Inc
 204.110.220.33,80,US,Securly Inc
 204.110.220.34,80,US,Securly Inc
 204.110.220.46,80,US,Securly Inc
+204.110.220.61,80,US,Securly Inc
 204.110.220.65,80,US,Securly Inc
-204.110.220.81,80,US,Securly Inc
-204.110.221.108,80,CA,Securly Inc
-204.110.221.117,80,CA,Securly Inc
+204.110.221.101,80,CA,Securly Inc
 204.110.221.129,80,CA,Securly Inc
 204.110.221.176,80,CA,Securly Inc
-204.110.221.186,80,CA,Securly Inc
-204.110.221.203,80,CA,Securly Inc
+204.110.221.188,443,CA,Securly Inc
+204.110.221.188,80,CA,Securly Inc
 204.110.221.250,80,CA,Securly Inc
-204.110.221.255,80,CA,Securly Inc
+204.110.221.45,80,CA,Securly Inc
 204.110.221.58,80,CA,Securly Inc
-204.110.221.66,443,CA,Securly Inc
-204.110.221.66,80,CA,Securly Inc
 204.110.222.104,443,US,Securly Inc
 204.110.222.104,80,US,Securly Inc
 204.110.222.106,80,US,Securly Inc
@@ -16743,33 +16090,31 @@
 204.110.222.172,80,US,Securly Inc
 204.110.222.174,80,US,Securly Inc
 204.110.222.182,80,US,Securly Inc
+204.110.222.187,80,US,Securly Inc
+204.110.222.204,80,US,Securly Inc
 204.110.222.206,80,US,Securly Inc
 204.110.222.214,80,US,Securly Inc
 204.110.222.224,80,US,Securly Inc
-204.110.222.245,443,US,Securly Inc
-204.110.222.245,80,US,Securly Inc
+204.110.222.233,80,US,Securly Inc
 204.110.222.250,80,US,Securly Inc
-204.110.222.255,80,US,Securly Inc
 204.110.222.75,80,US,Securly Inc
 204.110.222.86,443,US,Securly Inc
 204.110.222.94,80,US,Securly Inc
 204.110.223.1,80,US,Securly Inc
 204.110.223.100,80,US,Securly Inc
-204.110.223.105,443,US,Securly Inc
 204.110.223.105,80,US,Securly Inc
 204.110.223.108,80,US,Securly Inc
 204.110.223.109,80,US,Securly Inc
 204.110.223.119,80,US,Securly Inc
 204.110.223.122,80,US,Securly Inc
 204.110.223.135,80,US,Securly Inc
+204.110.223.138,80,US,Securly Inc
 204.110.223.155,80,US,Securly Inc
-204.110.223.156,80,US,Securly Inc
-204.110.223.161,80,US,Securly Inc
 204.110.223.164,80,US,Securly Inc
 204.110.223.170,80,US,Securly Inc
 204.110.223.188,80,US,Securly Inc
-204.110.223.19,80,US,Securly Inc
 204.110.223.194,80,US,Securly Inc
+204.110.223.197,80,US,Securly Inc
 204.110.223.208,80,US,Securly Inc
 204.110.223.216,80,US,Securly Inc
 204.110.223.217,80,US,Securly Inc
@@ -16784,6 +16129,7 @@
 204.110.223.33,80,US,Securly Inc
 204.110.223.37,80,US,Securly Inc
 204.110.223.42,80,US,Securly Inc
+204.110.223.6,80,US,Securly Inc
 204.110.223.69,80,US,Securly Inc
 204.110.223.7,80,US,Securly Inc
 204.110.223.70,80,US,Securly Inc
@@ -16825,6 +16171,7 @@
 206.189.48.135,443,DE,DigitalOcean LLC
 206.189.5.30,443,NL,DigitalOcean LLC
 206.189.50.155,1443,DE,DigitalOcean LLC
+206.189.88.145,443,SG,DigitalOcean LLC
 206.189.99.40,433,NL,DigitalOcean LLC
 206.201.196.122,443,US,Aryaka Networks Inc co Equinix SV4 255 Caspian Drive Sunnyvale CA 94089 United States
 206.206.123.249,443,US,IPXO LLC
@@ -16836,7 +16183,6 @@
 206.53.48.220,443,GE,Secure Internet LLC GE
 206.81.26.62,44322,DE,DigitalOcean LLC
 206.81.29.239,443,DE,DigitalOcean LLC
-207.148.80.190,443,AU,The Constant Company LLC
 207.154.209.161,443,DE,DigitalOcean LLC
 207.154.232.202,2053,DE,DigitalOcean LLC
 207.154.232.202,8443,DE,DigitalOcean LLC
@@ -16857,7 +16203,6 @@
 207.61.86.114,443,CA,Empire Life
 208.123.190.152,443,FI,Snowd Security OU
 208.167.248.148,443,US,Vultr Holdings LLC
-208.81.129.171,2053,US,PleskLogin Net
 208.81.129.171,2083,US,PleskLogin Net
 208.81.129.171,2087,US,PleskLogin Net
 208.81.129.171,2096,US,PleskLogin Net
@@ -16870,13 +16215,11 @@
 209.135.171.209,443,US,Snaju Development
 209.141.33.79,2053,US,BuyVM Services
 209.146.25.162,443,PH,IPS Inc
-209.15.110.126,443,TH,CAT TELECOM CAT Cloud Dept 99 Chaengwatthana Rd Lak Si Bangkok 10210
 209.200.246.130,443,CA,REGXA LLC
 209.237.135.93,443,US,Webcom Group Inc
 209.250.236.123,8443,DE,Hanauer Landstrae 302
 209.250.255.39,443,NL,JW Lucasweg 35
 209.250.255.90,443,NL,JW Lucasweg 35
-209.38.109.162,443,NL,DigitalOcean LLC
 209.38.115.143,443,DE,DigitalOcean LLC
 209.38.12.25,443,CA,DigitalOcean LLC
 209.38.180.179,443,DE,DigitalOcean LLC
@@ -16901,9 +16244,7 @@
 210.6.207.42,18622,HK,Hong Kong Broadband Network Ltd
 210.61.97.241,81,TW,Chunghwa Telecom CoLtd
 210.97.85.16,50001,KR,Korea Telecom
-211.105.86.219,30012,KR,Korea Telecom
 211.107.143.176,50001,KR,Korea Telecom
-211.176.90.4,30012,KR,SK Broadband Co Ltd
 211.177.114.117,50001,KR,SK Broadband Co Ltd
 211.185.73.48,50001,KR,Korea Telecom
 211.194.135.143,50001,KR,Korea Telecom
@@ -16911,14 +16252,13 @@
 211.195.83.140,50003,KR,Korea Telecom
 211.197.161.123,10041,KR,Korea Telecom
 211.199.38.242,50001,KR,Korea Telecom
+211.201.173.99,50001,KR,SK Broadband Co Ltd
 211.203.134.213,50001,KR,SK Broadband Co Ltd
 211.204.168.129,50001,KR,SK Broadband Co Ltd
 211.206.200.73,30012,KR,SK Broadband Co Ltd
 211.206.57.122,50001,KR,SK Broadband Co Ltd
 211.207.97.48,50001,KR,SK Broadband Co Ltd
-211.218.242.52,12371,KR,Korea Telecom
 211.219.241.28,31337,KR,Korea Telecom
-211.225.142.166,30012,KR,Korea Telecom
 211.226.15.137,50001,KR,Korea Telecom
 211.228.114.15,50001,KR,Korea Telecom
 211.228.5.119,50001,KR,Korea Telecom
@@ -16964,8 +16304,7 @@
 212.113.101.212,443,SE,Aeza International LTD
 212.113.101.238,443,SE,Aeza International LTD
 212.113.101.250,2053,SE,Aeza International LTD
-212.113.102.118,2053,SE,Aeza International LTD
-212.113.102.118,8443,SE,Aeza International LTD
+212.113.101.250,8443,SE,Aeza International LTD
 212.113.102.191,443,SE,Aeza International LTD
 212.113.102.199,2053,SE,Aeza International LTD
 212.113.102.199,8443,SE,Aeza International LTD
@@ -16983,10 +16322,10 @@
 212.113.107.161,443,DE,nuxtcloud hosting provider
 212.113.116.93,443,DE,Aeza International LTD
 212.113.119.22,8443,DE,Aeza International LTD
-212.114.194.74,443,DE,KABELDEUTSCHLANDCUSTOMERSERVICES28
-212.114.194.76,443,DE,KABELDEUTSCHLANDCUSTOMERSERVICES28
-212.114.194.78,443,DE,KABELDEUTSCHLANDCUSTOMERSERVICES28
-212.114.194.79,443,DE,KABELDEUTSCHLANDCUSTOMERSERVICES28
+212.114.194.74,443,DE,Mnet Telekommunikations GmbH
+212.114.194.76,443,DE,Mnet Telekommunikations GmbH
+212.114.194.78,443,DE,Mnet Telekommunikations GmbH
+212.114.194.79,443,DE,Mnet Telekommunikations GmbH
 212.115.108.60,2083,GB,Kamatera Inc
 212.118.39.182,8443,NL,Amsterdam Netherlands
 212.118.39.50,2053,NL,Amsterdam Netherlands
@@ -17014,7 +16353,6 @@
 212.192.215.229,2053,NL,Baxet Group Inc
 212.192.215.229,8443,NL,Baxet Group Inc
 212.192.215.7,443,NL,Baxet Group Inc
-212.192.215.96,8443,NL,Baxet Group Inc
 212.192.217.111,2053,NL,Timeweb LLP
 212.192.217.111,8443,NL,Timeweb LLP
 212.192.217.251,443,NL,Timeweb LLP
@@ -17052,7 +16390,6 @@
 212.22.74.89,443,NL,Baykov Ilya Sergeevich
 212.224.107.36,443,DE,UltaHost Inc
 212.224.93.171,443,DE,UltaHost Inc
-212.227.144.37,8443,ES,IONOS SE
 212.227.90.142,443,ES,IONOS SE
 212.23.200.10,8443,DE,Melbikomas UAB
 212.23.200.50,8443,DE,Melbikomas UAB
@@ -17358,7 +16695,6 @@
 213.165.38.215,443,DE,Aeza International LTD
 213.165.38.33,443,NL,GLOBAL CONNECTIVITY SOLUTIONS LLP
 213.165.42.212,443,DE,Aeza International LTD
-213.165.48.120,2096,RU,Aeza International LTD
 213.165.48.126,2053,DE,Aeza International LTD
 213.165.48.126,8443,DE,Aeza International LTD
 213.165.52.182,443,DE,Cloud Hosting Solutions Limited
@@ -17392,7 +16728,7 @@
 213.176.92.37,443,SE,Aeza International LTD
 213.176.92.42,12152,SE,Aeza International LTD
 213.176.92.42,443,SE,Aeza International LTD
-213.176.92.59,443,SE,Aeza International LTD
+213.176.92.7,443,SE,Smart Digital Ideas DOO
 213.176.92.70,443,SE,Aeza International LTD
 213.176.92.75,443,SE,Aeza International LTD
 213.176.93.214,443,DE,Aeza International LTD
@@ -17504,7 +16840,7 @@
 216.225.197.195,443,US,IONOS Inc
 216.24.178.29,443,US,Cluster Logic Inc
 216.24.184.171,95,CN,CHINANET anhui province network
-216.40.87.26,443,US,VMISS Inc
+216.40.87.26,443,US,Zont LLC
 216.45.62.175,443,US,None
 217.11.167.62,8443,FI,Snowd Security OU
 217.11.167.94,443,FI,Snowd Security OU
@@ -17584,6 +16920,8 @@
 217.30.10.31,8443,PL,Melbikomas UAB
 217.30.10.46,2053,PL,Melbikomas UAB
 217.30.10.46,8443,PL,Melbikomas UAB
+217.30.10.55,2053,PL,Melbikomas UAB
+217.30.10.55,8443,PL,Melbikomas UAB
 217.60.249.83,2053,US,CGI GLOBAL LIMITED
 217.60.249.83,8443,US,CGI GLOBAL LIMITED
 217.60.252.232,2053,FR,CloudBackbone
@@ -17624,7 +16962,6 @@
 218.156.233.76,50000,KR,Korea Telecom
 218.54.55.117,12176,KR,SK Broadband Co Ltd
 219.249.81.170,50001,KR,SK Broadband Co Ltd
-219.65.73.81,443,IN,Reliance Jio Infocomm Limited
 219.76.13.166,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 219.76.13.167,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 219.76.13.169,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
@@ -17638,6 +16975,7 @@
 220.126.185.107,50001,KR,Korea Telecom
 220.196.190.122,443,CN,China Unicom
 220.80.20.7,50001,KR,Korea Telecom
+220.81.183.79,30012,KR,Korea Telecom
 220.90.180.182,50001,KR,Korea Telecom
 220.90.22.20,10066,KR,Korea Telecom
 221.125.10.8,57537,HK,HGC Global Communications Limited
@@ -17649,6 +16987,7 @@
 221.163.106.93,50001,KR,Korea Telecom
 221.164.165.14,50001,KR,Korea Telecom
 221.164.193.135,50001,KR,Korea Telecom
+221.165.164.92,30019,KR,Korea Telecom
 221.165.64.92,50001,KR,Korea Telecom
 221.166.156.189,50001,KR,Korea Telecom
 221.167.150.62,50001,KR,Korea Telecom
